@@ -1,4 +1,9 @@
 {
   "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-macchiato",
-  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-mauve"
+  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-mauve",
+  "catppuccin-font-styles@@ctp-h1": "var(--ctp-mauve)",
+  "catppuccin-font-styles@@ctp-h2": "var(--ctp-teal)",
+  "catppuccin-font-styles@@ctp-h3": "var(--ctp-blue)",
+  "catppuccin-font-styles@@ctp-h4": "var(--ctp-sapphire)",
+  "catppuccin-font-styles@@ctp-h5": "var(--ctp-peach)"
 }
