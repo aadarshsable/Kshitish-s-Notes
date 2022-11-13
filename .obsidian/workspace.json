@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dcc509b9f23af974",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Biology/Books/Campbell Biology Concepts Connections.pdf"
-              }
-            }
-          },
-          {
             "id": "fa8b3302bff4b5ba",
             "type": "leaf",
             "state": {
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Books/Campbell Biology Concepts Connections.pdf",
+                "file": "Biology/Cellular Biology/Biomolecules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Books/Campbell Biology Concepts Connections.pdf",
+                "file": "Biology/Cellular Biology/Biomolecules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/Books/Campbell Biology Concepts Connections.pdf"
+                "file": "Biology/Cellular Biology/Biomolecules.md"
               }
             }
           },
@@ -163,10 +153,10 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "dcc509b9f23af974",
+  "active": "fa8b3302bff4b5ba",
   "lastOpenFiles": [
-    "Biology/Cellular Biology/Biomolecules.md",
     "Biology/Books/Campbell Biology Concepts Connections.pdf",
+    "Biology/Cellular Biology/Biomolecules.md",
     "Mathematics/Group Theory and Symmetry/Symmetry in Regular N-gons.md",
     "Mathematics/Group Theory and Symmetry/Isometeries.md",
     "Mathematics/Group Theory and Symmetry/Groups.md",
