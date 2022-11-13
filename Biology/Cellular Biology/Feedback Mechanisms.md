@@ -21,4 +21,4 @@ If we take a look at any system at **homeostasis**, a positive feedback mechanis
 ### Examples
 
 - The release of oxytocin from the posterior pituitary gland during labor. Oxytocin stimulates the muscle contraction that push the baby through the birth canal. 
-- 
+- Child feeding stimulates milk production which causes
