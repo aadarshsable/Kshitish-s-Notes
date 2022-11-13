@@ -1,3 +1,5 @@
+!
+
 - *Chromosomes* contain most of a cell's genetic material in the form of **DNA**.
 - **Genes** are the units of inheritance that transmit information from parents to off-springs.
 - Each chromosome has one long DNA molecule with hundreds or thousands of genes on it.
