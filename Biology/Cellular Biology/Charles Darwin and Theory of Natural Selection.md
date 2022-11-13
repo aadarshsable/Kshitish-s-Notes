@@ -15,4 +15,7 @@ Darwin's theory explained the duality of unity and diversity.
 - Species generally suit their environment.
 
 ### Darwin's Inference
-- Individuals are best suited 
+- Individuals are best suited to their environment are more likely to survive and reproduce.
+- Over time, more individuals in population will have the advantageous traits.
+
+In other words, the natural environment "selects" for beneficial traits.
