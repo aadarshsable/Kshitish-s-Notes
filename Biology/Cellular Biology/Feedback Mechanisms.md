@@ -16,4 +16,4 @@ There are two types of feedback mechanism:
 
 Positive feedback means that as more of a product accumulates, the process that creates it speeds up and more of the product is produced.
 
-A positive feedback loop 
+If we take a look at any system at homeostasis, a positive feedback mechanism generally moves the system further away from the target of equilibrium. Therefore, positive feedback mechanisms are rare in bi
