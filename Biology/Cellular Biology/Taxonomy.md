@@ -15,4 +15,9 @@
 	2. Fungi
 	3. Animalia
 
-- Other 
+- Other eukaryotic organisms were formerly grouped into a kingdom called *Protista*, though these are now grouped into many separate kingdoms.
+
+## Unity In Diversity
+
+A striking unity underlies the diversity of life; for example:
+- DNA is the un
