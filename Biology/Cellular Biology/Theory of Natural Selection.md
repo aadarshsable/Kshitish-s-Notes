@@ -29,4 +29,4 @@ In other words, the natural environment "selects" for beneficial traits.
 - Fossils provide additional evidence of anatomical unity from descent with modification.
 - Darwin proposed that natural selection in an ancestral species could give rise to two or more descendants species. For example, the Finch Species of the Galapagos Islands. 
 	![Finch Species in Galapagos Islands](https://cruise-tour.com/wp-content/uploads/2018/05/Finches2.jpg)
-- 
+- Evolutionary relationships are often illustrated with tree-like diagrams that show ancestors and their descendents.
