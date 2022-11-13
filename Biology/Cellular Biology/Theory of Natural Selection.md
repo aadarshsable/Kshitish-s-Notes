@@ -25,4 +25,6 @@ In other words, the natural environment "selects" for beneficial traits.
 
 ## The Tree of Life
 - Unity in diversity arises from "descent with modification".
-	- For example, the forelimb of the bat, human, horse and the whale flipper all 
+	- For example, the forelimb of the bat, human, horse and the whale flipper all share a common skeletal architecture.
+- Fossils provide additional evidence of anatomical unity from descent with modification.
+- Darwin proposed that natural selection in an ancestral species could give rise to two or more descendants 
