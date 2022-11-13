@@ -3,7 +3,6 @@ There are three kinds of geometric symmetry:
 - [Rotational Symmetry] [Geometrical Symmetry#Rotational Symmetry]
 - [Translational Symmetry] [Geometrical Symmetry#Translational Symmetry]
 
-
 ## Reflective Symmetry
 
 $P$ = Euclidean Plane

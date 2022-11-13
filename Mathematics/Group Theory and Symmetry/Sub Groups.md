@@ -29,3 +29,6 @@ Now, let $x$ be any element of $H$. As $1_{G}$ and $x$ are in $H$, so is $1_{G} 
 
 #### Products
 Let $x,y$ be in $H$. Then $y ^{-1}$ is in $H$. So $x \circ (y ^{-1}) ^{-1} = x \circ y$ is in $H$. Thus $H$ is a subgroup.
+
+
+[Translational Symmetry](Geometrical Symmetry#Translational Symmetry)
