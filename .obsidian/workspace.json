@@ -47,12 +47,8 @@
             "id": "bbf0b931e4905131",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/Cellular Biology/Charles Darwin and Theory of Natural Selection.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -122,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Cellular Biology/Charles Darwin and Theory of Natural Selection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Cellular Biology/Charles Darwin and Theory of Natural Selection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Biology/Cellular Biology/Charles Darwin and Theory of Natural Selection.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,8 +182,9 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "bbf0b931e4905131",
+  "active": "5f418d06011d3260",
   "lastOpenFiles": [
+    "Biology/Cellular Biology/Charles Darwin and Theory of Natural Selection.md",
     "Biology/Cellular Biology/Taxonomy.md",
     "Biology/Cellular Biology/Feedback Mechanisms.md",
     "Biology/Cellular Biology/DNA.md",
@@ -200,7 +193,6 @@
     "Biology/Books/Campbell Biology Concepts Connections.pdf",
     "Mathematics/Group Theory and Symmetry/Symmetry in Regular N-gons.md",
     "Mathematics/Group Theory and Symmetry/Isometeries.md",
-    "Mathematics/Group Theory and Symmetry/Group Isomorphism.md",
-    "Mathematics/Group Theory and Symmetry/Geometrical Symmetry.md"
+    "Mathematics/Group Theory and Symmetry/Group Isomorphism.md"
   ]
 }
