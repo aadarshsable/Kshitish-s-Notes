@@ -19,3 +19,6 @@ Darwin's theory explained the duality of unity and diversity.
 - Over time, more individuals in population will have the advantageous traits.
 
 In other words, the natural environment "selects" for beneficial traits.
+![Natural Selection In Action][https://www.solpass.org/science6-8-new/s7/images-life/Natural-Selection-Giraffes.png]
+
+- Natural Selection is often evident in adaptations of organisms to their way 
