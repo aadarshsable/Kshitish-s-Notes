@@ -20,4 +20,5 @@
 ## Unity In Diversity
 
 A striking unity underlies the diversity of life; for example:
-- DNA is the un
+- DNA and RNA are the universal genetic languages common to all organisms
+- Unity is evident in many features of the cell structure.
