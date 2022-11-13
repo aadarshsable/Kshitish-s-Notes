@@ -27,6 +27,6 @@ In other words, the natural environment "selects" for beneficial traits.
 - Unity in diversity arises from "descent with modification".
 	- For example, the forelimb of the bat, human, horse and the whale flipper all share a common skeletal architecture.
 - Fossils provide additional evidence of anatomical unity from descent with modification.
-- Darwin proposed that natural selection in an ancestral species could give rise to two or more descendants species.
-	For example, the Finch Species of the Galapagos Islands.
+- Darwin proposed that natural selection in an ancestral species could give rise to two or more descendants species. For example, the Finch Species of the Galapagos Islands. 
 	![Finch Species in Galapagos Islands](https://cruise-tour.com/wp-content/uploads/2018/05/Finches2.jpg)
+- 
