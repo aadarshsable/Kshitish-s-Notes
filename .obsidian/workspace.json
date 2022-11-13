@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Cellular Biology/Theory of Natural Selection.md",
+                "file": "Mathematics/Group Theory and Symmetry/Geometrical Symmetry.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Cellular Biology/Theory of Natural Selection.md",
+                "file": "Mathematics/Group Theory and Symmetry/Geometrical Symmetry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Cellular Biology/Theory of Natural Selection.md",
+                "file": "Mathematics/Group Theory and Symmetry/Geometrical Symmetry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/Cellular Biology/Theory of Natural Selection.md"
+                "file": "Mathematics/Group Theory and Symmetry/Geometrical Symmetry.md"
               }
             }
           },
@@ -192,9 +192,9 @@
   },
   "active": "bbf0b931e4905131",
   "lastOpenFiles": [
+    "Biology/Cellular Biology/Theory of Natural Selection.md",
     "Biology/Cellular Biology/DNA.md",
     "Biology/Cellular Biology/[].md",
-    "Biology/Cellular Biology/Theory of Natural Selection.md",
     "Biology/Cellular Biology/Taxonomy.md",
     "Biology/Cellular Biology/Feedback Mechanisms.md",
     "Biology/Cellular Biology/[[DNA]].md",
