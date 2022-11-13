@@ -30,7 +30,7 @@ So, $\phi(x ^{-1})=\phi(x)^{-1}$
 
 ##### Example
 
-$G =$ Group of [rotational symmetries](GeometricalSymmetry#RotationalSymmetry) of a regular hexagon.
+$G =$ Group of [rotational symmetries](Geometrical Symmetry#Rotational Symmetry) of a regular hexagon.
 $H =$ Group of isometries of an equilateral triangle.
 
 $G \text{ and } H$ are not isomorphic. There are 2 ways of seeing this:
