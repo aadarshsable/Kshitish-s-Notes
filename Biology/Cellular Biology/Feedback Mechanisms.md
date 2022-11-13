@@ -9,11 +9,13 @@ There are two types of feedback mechanism:
 
 ### Examples
 - When the stomach content becomes too acidic, the release of *gastrin* is inhibited. Lower levels of gastrin in the blood cause gastric glands to secrete less gastric juice.
-- Androgens carried in blood help maintain homeostasis by inhibiting secretion of both FSH and LH.
-- The production of red blood cells in the bone marrow is controlled by a negative-feedback mechanism that is sensitive to the amount of oxygen reaching the tissues via the blood.
+- Androgens carried in blood help maintain homeostasis by inhibiting secretion of both *FSH and LH*.
+- The production of red blood cells in the *bone marrow* is controlled by a negative-feedback mechanism that is sensitive to the amount of oxygen reaching the tissues via the blood.
 
 ## Positive Feedback Mechanism
 
-Positive feedback means that as more of a product accumulates, the process that creates it speeds up and more of the product is produced.
+Positive feedback means that as more of a product accumulates, the process that creates it *speeds up* and **more of the product** is produced.
 
-If we take a look at any system at homeostasis, a positive feedback mechanism generally moves the system further away from the target of equilibrium. Therefore, positive feedback mechanisms are rare in bi
+If we take a look at any system at **homeostasis**, a positive feedback mechanism generally moves the system *further away from the target of equilibrium*. Therefore, positive feedback mechanisms are **rare** in biological systems.
+
+### 
