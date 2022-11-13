@@ -47,16 +47,24 @@
             "id": "bbf0b931e4905131",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c9a23411bb07965a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Cellular Biology/Theory of Natural Selection.md",
+                "file": "Chemistry/Chemistry of Elements and Chemical Transformations'/Periodic Table.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Cellular Biology/Theory of Natural Selection.md",
+                "file": "Chemistry/Chemistry of Elements and Chemical Transformations'/Periodic Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Cellular Biology/Theory of Natural Selection.md",
+                "file": "Chemistry/Chemistry of Elements and Chemical Transformations'/Periodic Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/Cellular Biology/Theory of Natural Selection.md"
+                "file": "Chemistry/Chemistry of Elements and Chemical Transformations'/Periodic Table.md"
               }
             }
           },
@@ -190,17 +198,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "bbf0b931e4905131",
+  "active": "c9a23411bb07965a",
   "lastOpenFiles": [
+    "Chemistry/Chemistry of Elements and Chemical Transformations'/Reaction Mechanism.md",
+    "Chemistry/Chemistry of Elements and Chemical Transformations'/Periodic Table.md",
+    "Biology/Cellular Biology/Theory of Natural Selection.md",
     "Mathematics/Group Theory and Symmetry/Geometrical Symmetry.md",
     "Mathematics/Group Theory and Symmetry/Geometrical.md",
     "Mathematics/Group Theory and Symmetry/Group Isomorphism.md",
     "Mathematics/Group Theory and Symmetry/Isometeries.md",
     "Mathematics/Group Theory and Symmetry/[[Geometrical.md",
     "Mathematics/Group Theory and Symmetry/Permutations.md",
-    "Mathematics/Group Theory and Symmetry/Groups.md",
-    "Mathematics/Group Theory and Symmetry/[.md",
-    "Mathematics/Group Theory and Symmetry/Sub Groups.md",
-    "Biology/Cellular Biology/Theory of Natural Selection.md"
+    "Mathematics/Group Theory and Symmetry/Groups.md"
   ]
 }
