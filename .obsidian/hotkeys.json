@@ -15,14 +15,6 @@
       "key": "B"
     }
   ],
-  "editor:toggle-numbered-list": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "N"
-    }
-  ],
   "table-editor-obsidian:table-control-bar": [],
   "obsidian-excalidraw-plugin:insert-link": []
 }

@@ -5,3 +5,4 @@
 - Each link of a chain is one of four kinds of chemical building blocks called **nucleotides**.
 - DNA is transcribed into *RNA* and then translated into a **protein**.
 - An organism's **genome** is its entire set of genetic instructions.
+- 
