@@ -21,4 +21,8 @@ Darwin's theory explained the duality of unity and diversity.
 In other words, the natural environment "selects" for beneficial traits.
 ![Natural Selection In Action][https://www.solpass.org/science6-8-new/s7/images-life/Natural-Selection-Giraffes.png]
 
-- Natural Selection is often evident in adaptations of organisms to their way 
+- Natural Selection is often evident in adaptations of organisms to their way of life and environment.
+
+## The Tree of Life
+- Unity in diversity arises from "descent with modification".
+	- For example, the forelimb of the bat, human, horse and the whale flipper all 
