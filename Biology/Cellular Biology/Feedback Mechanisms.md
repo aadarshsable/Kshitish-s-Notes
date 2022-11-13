@@ -18,4 +18,8 @@ Positive feedback means that as more of a product accumulates, the process that 
 
 If we take a look at any system at **homeostasis**, a positive feedback mechanism generally moves the system *further away from the target of equilibrium*. Therefore, positive feedback mechanisms are **rare** in biological systems.
 
-### 
+### Examples
+
+- The release of oxytocin from the posterior pituitary gland during labor. Oxytocin stimulates the muscle contraction that push the baby through the birth canal. 
+> Note
+> denn
