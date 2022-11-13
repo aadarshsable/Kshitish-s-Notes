@@ -3,4 +3,9 @@
 ## Importance of Taxonomy
 
 - Approximately 1.8 million species have been identified and named to date, and thousand more are identified each year. Grouping them into categories allows scientists some reductional approach into understanding each species.
-- Having a uni name is important for exchange of information between people from 
+- Having a unique name is important for exchange of information between people from various regions around the globe.
+
+### Three Domain System
+
+- The *three-domain system* is currently used and it replaces the old **five-kingdom system**.
+- **Domain Bacteria** and **Domain Archaea** comprise the eukaryotes 
