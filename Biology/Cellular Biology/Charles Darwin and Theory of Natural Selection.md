@@ -8,5 +8,11 @@ Darwin's theory explained the duality of unity and diversity.
 
 ## Darwin's Observations
 
+- Individuals in a population have traits that vary.
+- Many of these traits are heritable.
+- More off-springs are produced than survive.
+- Competition is inevitable.
+- Species generally suit their environment.
 
-
+### Darwin's Inference
+- Individuals are best suited 
