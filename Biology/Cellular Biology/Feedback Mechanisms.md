@@ -9,3 +9,4 @@ There are two types of feedback mechanism:
 
 ### Examples
 - When the stomach content becomes too acidic, the release of *gastrin* is inhibited. Lower levels of gastrin in the blood cause gastric glands to secrete less gastric juice.
+- Androgens carried in blood help maintain homeostasis by inhibiting secretion of both FSH and LH.
