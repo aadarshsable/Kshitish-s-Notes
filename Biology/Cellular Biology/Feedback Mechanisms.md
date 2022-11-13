@@ -11,7 +11,7 @@ There are two types of feedback mechanism:
 - When the stomach content becomes too acidic, the release of *gastrin* is inhibited. Lower levels of gastrin in the blood cause gastric glands to secrete less gastric juice.
 - Androgens carried in blood help maintain homeostasis by inhibiting secretion of both *FSH and LH*.
 - The production of red blood cells in the *bone marrow* is controlled by a negative-feedback mechanism that is sensitive to the amount of oxygen reaching the tissues via the blood.
-- Thermoregulation, if the temperature of the body
+- Shivering and Sweating are methods of **Thermoregulation** used by the body to maintain its temperature. ![Thermoregulation][https://ib.bioninja.com.au/_Media/negative-feedback_med.jpeg]
 
 ## Positive Feedback Mechanism
 
