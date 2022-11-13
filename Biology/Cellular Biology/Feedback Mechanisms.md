@@ -22,4 +22,5 @@ If we take a look at any system at **homeostasis**, a positive feedback mechanis
 
 - The release of oxytocin from the posterior pituitary gland during labor. Oxytocin stimulates the muscle contraction that push the baby through the birth canal. 
 - Child feeding stimulates milk production which causes further feeding.
-- Platelets release more clotting factor which causes more platelets to aggregate at the site of injury. ![[https://ib.bioninja.com.au/_Media/positive-feedback_med.jpeg]]
+- Platelets release more clotting factor which causes more platelets to aggregate at the site of injury. ![Example](https://ib.bioninja.com.au/_Media/positive-feedback_med.jpeg)
+
