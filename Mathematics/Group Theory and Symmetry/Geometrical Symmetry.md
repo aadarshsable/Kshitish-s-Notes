@@ -1,5 +1,5 @@
 There are three kinds of geometric symmetry:
-- [Reflective Symmetry] [Geometrical Symmetry#Reflective Symmetry]*
+- [Reflective Symmetry] [Geometrical Symmetry#Reflective Symmetry]
 - [Rotational Symmetry] [Geometrical Symmetry#Rotational Symmetry]
 - [Translational Symmetry] [Geometrical Symmetry#Translational Symmetry]
 
