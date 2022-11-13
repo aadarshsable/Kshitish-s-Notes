@@ -15,3 +15,5 @@ There are two types of feedback mechanism:
 ## Positive Feedback Mechanism
 
 Positive feedback means that as more of a product accumulates, the process that creates it speeds up and more of the product is produced.
+
+A positive feedback loop 
