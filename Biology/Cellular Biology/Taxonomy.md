@@ -8,4 +8,5 @@
 ### Three Domain System
 
 - The *three-domain system* is currently used and it replaces the old **five-kingdom system**.
-- **Domain Bacteria** and **Domain Archaea** comprise the eukaryotes 
+- **Domain Bacteria** and **Domain Archaea** comprise the prokaryotes.
+- **Domain Eukarya** includes all eukaryotic organisms. ![Three Domain System][https://en.wikipedia.org/wiki/Three-domain_system#/media/File:Phylogenetic_tree_of_life_1990_LUCA.svg]
