@@ -8,47 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9a23411bb07965a",
+            "id": "7d4ff41403ca71ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Chemistry of Elements and Chemical Transformations'/Classification Of Elements.md",
+                "file": "Chemistry/Chemistry of Elements and Chemical Transformations'/Periodic Trends of Atomic Size.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "763cce98c58a3d5b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b6ec59406490bd43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/Cellular Biology/DNA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b783b81c821152c0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chemistry/Chemistry of Elements and Chemical Transformations'/Periodic Trends of Atomic Size.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chemistry/Chemistry of Elements and Chemical Transformations'/Periodic Trends of Atomic Size.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chemistry/Chemistry of Elements and Chemical Transformations'/Periodic Trends of Atomic Size.md"
+              }
             }
           },
           {
@@ -178,17 +153,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "b783b81c821152c0",
+  "active": "7d4ff41403ca71ef",
   "lastOpenFiles": [
+    "Chemistry/Chemistry of Elements and Chemical Transformations'/Classification Of Elements.md",
+    "Biology/Cellular Biology/DNA.md",
+    "Chemistry/Contents.md",
+    "Mathematics/Contents.md",
     "Biology/Contents.md",
     "Mathematics/Group Theory and Symmetry/Geometrical Symmetry.md",
     "Mathematics/Group Theory and Symmetry/Group Isomorphism.md",
     "Mathematics/Group Theory and Symmetry/Groups.md",
     "Mathematics/Group Theory and Symmetry/Isometries.md",
-    "Mathematics/Group Theory and Symmetry/Permutations.md",
-    "Mathematics/Group Theory and Symmetry/Sub Groups.md",
-    "Mathematics/Group Theory and Symmetry/Symmetry in Regular N-gons.md",
-    "Biology/Cellular Biology/DNA.md",
-    "Mathematics/Contents.md"
+    "Mathematics/Group Theory and Symmetry/Permutations.md"
   ]
 }

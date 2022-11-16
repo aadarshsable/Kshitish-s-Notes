@@ -6,17 +6,46 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "colorGroups": [
+    {
+      "query": "path:Chemistry",
+      "color": {
+        "a": 1,
+        "rgb": 15566742
+      }
+    },
+    {
+      "query": "path:Mathematics",
+      "color": {
+        "a": 1,
+        "rgb": 13017336
+      }
+    },
+    {
+      "query": "path:Physics",
+      "color": {
+        "a": 1,
+        "rgb": 9164234
+      }
+    },
+    {
+      "query": "path:Biology",
+      "color": {
+        "a": 1,
+        "rgb": 9088490
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 3.06041666666667,
+  "lineSizeMultiplier": 5,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.454861111111111,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.3488157014709559,
+  "linkDistance": 389,
+  "scale": 0.4307043479097307,
   "close": true
 }
