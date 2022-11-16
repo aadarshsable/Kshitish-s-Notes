@@ -1,4 +1,4 @@
-Let $(G,*)$ and $(H,\circ)$ be two groups. A group isomorphism from $(G,*) \to (h,\circ)$ is a $1-1$ correspondence $\phi:G \to H$ such that:
+Let $(G,*)$ and $(H,\circ)$ be two [groups](Groups). A group isomorphism from $(G,*) \to (h,\circ)$ is a $1-1$ correspondence $\phi:G \to H$ such that:
 $\phi(x*y) = \phi(x) \circ \phi(y)$ for all $x,y$ in $G$.
 
 We say that two groups are isomorphic if there exists a group isomorphism from one to other.
@@ -38,4 +38,3 @@ $G \text{ and } H$ are not isomorphic. There are 2 ways of seeing this:
 $G$ contains the rotation $\rho$ through $\frac{2\pi}{6}$ radians.
 Then $\rho^{6}=1_{G}$. Also, $\rho^{2}$ and $\rho^{3}$ are not equal to $1_{G}$. There are no  such elements in $H$. Indeed if $x$ is any element of $H$, either $x^{2} =1_{H} \text{ or } x^{3}=1_{H}$.
 If $\phi: G \to H$ were an isomorphism, $\phi(P)^{2}= \phi(P^{2})$ and $\phi(P)^{3} =\phi(P^{3})$ must both be distinct from $1_{H}$ which is a $Contradiction$.
-

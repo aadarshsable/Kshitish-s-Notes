@@ -27,4 +27,3 @@ $X$ is a point in $P$
 $X'$ is some unique point in $P$ such that $\overrightarrow{XX'}$  points in the same direction as $R$ and $dist(XX') = d$
 
 Then $X'$ is the image of $X$ under translation through $d$ along $R$
-

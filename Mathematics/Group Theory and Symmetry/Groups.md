@@ -23,12 +23,12 @@ So, $id_{G}.b = id_{G}.c$, i.e. b = c.
 
 If $ba=ca$, the proof is similar.
 
-Remark: It is not true in general that $ab =ca \implies b=c$. For example, in the diheadral group $D_{3},\text{ } \rho^{2}\tau=\tau \rho$. 
+Remark: It is not true in general that $ab =ca \implies b=c$. For example, in the dihedral group $D_{3},\text{ } \rho^{2}\tau=\tau \rho$. 
 However we can not just cancel $\tau$ as that would mean $\rho^{2} = \rho$  which is false.
 
 ### Uniqueness of the Identity Element
 
-$Theorem :$ Let $G$ be a groupand let $f$ be an element of $G$ such that $fx = x$ for some $x$ in group $G$. Then $f = 1_{G}$.
+$Theorem :$ Let $G$ be a group and let $f$ be an element of $G$ such that $fx = x$ for some $x$ in group $G$. Then $f = 1_{G}$.
 
 #### Proof
 
@@ -68,5 +68,3 @@ In general,  $a^{-1}b^{-1}\neq b^{-1}a^{-1}$.
 If the binary operation in a group is being written like multiplication, we write $f^{n}$ for $f. f\dots f$  for $n$ times where   is a positive number.
 
 We can also write $f^{-n}$ for $(f^{-1})^{n}$. One can check that this behaves as expected, i.e. $f^{m}.f^{n} =f^{m+n}$ for any integers $m$ and $n$.
-
-[[Isometeries]]

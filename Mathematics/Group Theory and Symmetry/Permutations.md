@@ -6,3 +6,20 @@ Given a set $A$, a permutation of $A$ is a $1-1$ correspondence from $A$ to itse
 2. If $f,g$ are in $Perm(A)$,the composition $g \circ f$ is also in $Perm(A)$
 3. If $f$ is in $Perm(A)$, $f^{-1}$ is also in $Perm(A)$
 4. If $f,g,h$ are in $Perm(A)$: $(f \circ g ) \circ h = f \circ ( g \circ h)$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -12,11 +12,11 @@ There can be three rotations through $0,\frac{2\pi}{3},\frac{4\pi}{3}$ radians.
 Rotation through 0 radians is the identity function or $id_{A}$.
 Let rotation through $\frac{2\pi}{3}$ radians be $\rho$. Then the, rotation through $\frac{4\pi}{3}$ radians can be written as, $\rho \circ \rho$ or $\rho^{2}$.
 
-Therefore the set of all possible rotational symmetry is $\set{id_{A},\rho,\rho^{2}}$
+Therefore the set of all possible [rotational symmetry](<Geometrical Symmetry#Rotational Symmetry>) is $\set{id_{A},\rho,\rho^{2}}$
 
 ### Reflection
 
-In $\Delta ABC$ join all three vertices with the centroid and extend each line till it hits the opposite side. Let the three new lines be: $v,l,r$. Let the reflection of the triangle through each line be represented by $\tau_{line}$. Therefore the set of all possible reflective symmetry is $\{ \tau_{l},\tau_{v},\tau_{r} \}$.
+In $\Delta ABC$ join all three vertices with the centroid and extend each line till it hits the opposite side. Let the three new lines be: $v,l,r$. Let the reflection of the triangle through each line be represented by $\tau_{line}$. Therefore the set of all possible [reflective symmetry](<Geometrical Symmetry#Reflective Symmetry>) is $\{ \tau_{l},\tau_{v},\tau_{r} \}$.
 
 Therefore the set of all possible symmetries is $\{ id_{A}, \rho,\rho^{2},\tau_{l},\tau_{v},\tau_{r} \}$
 
@@ -91,3 +91,9 @@ Since, $\rho^{n-i} . \rho^{i} = \rho^{n} = id_{A}$. So, $\rho^{n-1}$ = inverse o
 
 $\rho \tau^{2} \circ \rho^{3}\tau$ = $\rho^{2}(\tau \rho^{3})\tau$ = $\rho^{2}(\rho^{-3}\tau)\tau$
 = $(\rho^{2}\rho^{-3})(\tau \tau)$ = $\rho^{-1}$ = $\rho^{n-1}$
+
+
+
+
+
+

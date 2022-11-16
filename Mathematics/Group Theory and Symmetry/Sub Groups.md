@@ -1,4 +1,4 @@
-Let $(G,*)$ be a group. A subgroup of $G$ is a subset $H \subseteq G$ such that $*$ gives a binary operation on $H$, which gives $H$ the structure of a group.
+Let $(G,*)$ be a [group](Groups). A subgroup of $G$ is a subset $H \subseteq G$ such that $*$ gives a binary operation on $H$, which gives $H$ the structure of a group.
 More precisely, we say that the subset $H$ is a subgroup if the following are true:
 1. $1_{H}$ is in $H$. 
 2. $x,y$ in $H \implies x*y$ in $H$.
@@ -7,7 +7,7 @@ Note that we do not need to check that the binary operation on $H$ is associativ
 
 ## Examples
 
-1. Let $A$ be a subset of the plane. Then, if $G$ is the group of all isometries of $A$, $G$ is a subgroup of $Perm(A)$
+1. Let $A$ be a subset of the plane. Then, if $G$ is the group of all [isometries](Isometries.md) of $A$, $G$ is a subgroup of $Perm(A)$
 2. Let $G$ be any group. Then $G$ is a subgroup of itself. Any subgroup of $G$ that is not equal to the whole of $G$ is called a proper subgroup of $G$.
 3. Let $G$ be a group and let $x$ be any element of $G$. Then, the set:
 	$<x> = \{ x^{n} | \text{ n is an integer} \} = \{ 1_{G},x,x ^{-1},x^{2},x^{-2},\dots \}$
@@ -29,6 +29,3 @@ Now, let $x$ be any element of $H$. As $1_{G}$ and $x$ are in $H$, so is $1_{G} 
 
 #### Products
 Let $x,y$ be in $H$. Then $y ^{-1}$ is in $H$. So $x \circ (y ^{-1}) ^{-1} = x \circ y$ is in $H$. Thus $H$ is a subgroup.
-
-
-[Translational Symmetry](Geometrical Symmetry#Translational Symmetry)
