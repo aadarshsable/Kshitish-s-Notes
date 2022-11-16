@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Chemistry of Elements and Chemical Transformations'/Periodic Trends of Atomic Size.md",
+                "file": "Mathematics/Group Theory and Symmetry/Group Isomorphism.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/Chemistry of Elements and Chemical Transformations'/Periodic Trends of Atomic Size.md",
+                "file": "Mathematics/Group Theory and Symmetry/Group Isomorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/Chemistry of Elements and Chemical Transformations'/Periodic Trends of Atomic Size.md",
+                "file": "Mathematics/Group Theory and Symmetry/Group Isomorphism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Chemistry of Elements and Chemical Transformations'/Periodic Trends of Atomic Size.md"
+                "file": "Mathematics/Group Theory and Symmetry/Group Isomorphism.md"
               }
             }
           },
@@ -168,15 +168,15 @@
   },
   "active": "763cce98c58a3d5b",
   "lastOpenFiles": [
+    "Mathematics/Group Theory and Symmetry/Isometeries.md",
+    "Mathematics/Group Theory and Symmetry/Sub Groups.md",
+    "Chemistry/Chemistry of Elements and Chemical Transformations'/Periodic Trends of Atomic Size.md",
     "Chemistry/Chemistry of Elements and Chemical Transformations'/Classification Of Elements.md",
     "Chemistry/Chemistry of Elements and Chemical Transformations'/Periodic Table.md",
     "Biology/Cellular Biology/DNA.md",
     "Biology/Cellular Biology/Feedback Mechanisms.md",
     "Biology/Cellular Biology/Taxonomy.md",
     "Mathematics/Group Theory and Symmetry/Groups.md",
-    "Mathematics/Group Theory and Symmetry/Isometeries.md",
-    "Mathematics/Group Theory and Symmetry/Geometrical Symmetry.md",
-    "Mathematics/Group Theory and Symmetry/Group Isomorphism.md",
-    "Chemistry/Chemistry of Elements and Chemical Transformations'/Reaction Mechanism.md"
+    "Mathematics/Group Theory and Symmetry/Geometrical Symmetry.md"
   ]
 }

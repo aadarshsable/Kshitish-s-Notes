@@ -1,6 +1,6 @@
 Let $(G,*)$ be a group. A subgroup of $G$ is a subset $H \subseteq G$ such that $*$ gives a binary operation on $H$, which gives $H$ the structure of a group.
 More precisely, we say that the subset $H$ is a subgroup if the following are true:
-1. $1_{G}$ is in $H$.
+1. $1_{H}$ is in $H$. 
 2. $x,y$ in $H \implies x*y$ in $H$.
 3. $x$ in $H \implies x ^{-1}$ in $H$. 
 Note that we do not need to check that the binary operation on $H$ is associative as $*$ is known to be associative.
