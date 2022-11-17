@@ -60,3 +60,12 @@ The effect of the d-block contraction occurs on the period of 4 elements due to 
 
 2. Densities:
 	$5d$ elements have very high densities as down the group there is large increase in mass but almost increase in volume.
+
+## Occurrence of Yttrium along with heavier lanthanides
+
+- Yttrium has similar charge and size to Holmium $(Ho^{3+}) \text{ and Erbium } (Er^{3+})$, hence it occurs with them and makes the separation difficult.
+
+## Europium and Ytterbium
+
+- There is an appreciable increase in the atomic radii of europium and ytterbium in comparison to the preceding elements while no increase is observed for the corresponding trivalent ions.
+- 
