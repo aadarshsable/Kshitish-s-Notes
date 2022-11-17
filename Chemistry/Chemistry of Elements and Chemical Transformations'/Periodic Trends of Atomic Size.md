@@ -68,4 +68,5 @@ The effect of the d-block contraction occurs on the period of 4 elements due to 
 ## Europium and Ytterbium
 
 - There is an appreciable increase in the atomic radii of europium and ytterbium in comparison to the preceding elements while no increase is observed for the corresponding trivalent ions.
-- 
+- The size increase in the case of free metals is attributed to the presence of dipositive ions giving only two valence electrons for metallic bonding instead of the three usually encountered lanthanide metals.
+- The structures of these two metals also differ from the hexagonal, closely packed structure encountered for most of the lanthanide metals.
