@@ -36,7 +36,6 @@ $fx = x \implies f =1_{G}$ by "cancelling" $x$ on the right.
 
 We only need to assume $fx=x$ for some $x$ in $G$ and not necessarily for all $x$ in $G$. Also we do not need to assume: $xf=x$.
 
-
 ## Inverses
 
 In case of inverses, the axiom only states that for any $f$ in $G$, there exists some inverse $f^{-1}$ such that $f \circ f^{-1}=f^{-1}\circ f=1_{G}$. However it is easy to deduce a much stronger statement out of this.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Chemistry of Elements and Chemical Transformations'/Periodic Trends of Atomic Size.md",
+                "file": "Mathematics/Group Theory and Symmetry/Sub Groups.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/Chemistry of Elements and Chemical Transformations'/Periodic Trends of Atomic Size.md",
+                "file": "Mathematics/Group Theory and Symmetry/Sub Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/Chemistry of Elements and Chemical Transformations'/Periodic Trends of Atomic Size.md",
+                "file": "Mathematics/Group Theory and Symmetry/Sub Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Chemistry of Elements and Chemical Transformations'/Periodic Trends of Atomic Size.md"
+                "file": "Mathematics/Group Theory and Symmetry/Sub Groups.md"
               }
             }
           },
@@ -155,13 +155,13 @@
   },
   "active": "7d4ff41403ca71ef",
   "lastOpenFiles": [
-    "Mathematics/Group Theory and Symmetry/Sub Groups.md",
     "Mathematics/Group Theory and Symmetry/Group Isomorphism.md",
     "Mathematics/Group Theory and Symmetry/Isometries.md",
     "Mathematics/Group Theory and Symmetry/Groups.md",
+    "Mathematics/Group Theory and Symmetry/Sub Groups.md",
+    "Chemistry/Chemistry of Elements and Chemical Transformations'/Periodic Trends of Atomic Size.md",
     "Mathematics/Group Theory and Symmetry/Permutations.md",
     "Mathematics/Group Theory and Symmetry/Geometrical Symmetry.md",
-    "Chemistry/Chemistry of Elements and Chemical Transformations'/Periodic Trends of Atomic Size.md",
     "Chemistry/Chemistry of Elements and Chemical Transformations'/Classification Of Elements.md",
     "Biology/Cellular Biology/Theory of Natural Selection.md",
     "Biology/Cellular Biology/DNA.md"
