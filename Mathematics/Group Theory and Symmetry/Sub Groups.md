@@ -29,3 +29,48 @@ Now, let $x$ be any element of $H$. As $1_{G}$ and $x$ are in $H$, so is $1_{G} 
 
 #### Products
 Let $x,y$ be in $H$. Then $y ^{-1}$ is in $H$. So $x \circ (y ^{-1}) ^{-1} = x \circ y$ is in $H$. Thus $H$ is a subgroup.
+
+## Order of a Group
+
+Let $G$ be a group. The cardinality of the set $G$ is called the *order* of $G$.
+
+### Finite Groups
+
+A *finite group* is a group having finite order.
+
+Let $G$ be a finite group. Let $x$ be an element of $G$. Then, the set $<x>:\{ x^{n} |\text{ }n \text{ is an integer} \}$ is a subgroup of $G$.
+Thus $<x>$ is also a finite set.
+
+Let $|G| = r$,
+In the sequence $1,x^{2},x^{3},\dots,x^{r}$ all elements can not be distinct. So for some positive integers, $m<n$, we have $x^{m}=x^{n}$. So $x^{m-n}=1_{G}$. Also,
+$n\leq r \implies n-m\leq r$
+Thus we have proved the following:
+$Theorem:$ Let $G$ be a finite group. Then, for any element of $x$ of $G$, there exists a positive integer $d \leq |G|$ such that $x^{d}=1$
+
+### Groups of Small Order
+
+#### Order 1
+Order 1 groups are very simple as the only possible element in them is $\{ 1_{G} \}$. 
+
+#### Order 2
+Let $G$ be a group of order 2. Then, $G$ contains $1_{G}$ and some other element $x$. We already know $x \circ 1_{G}=1_{G} \circ x =x$. 
+Then the next question we can ask is what is $x^{2}$.
+$$
+\text{If } x^{2}=x \implies x=1_{G} \implies \text{Contradiction}
+$$
+Therefore $x^{2}=1$.
+So the multiplication table is,
+|     | 1   | $x$   |
+| --- | --- | --- |
+| 1   | 1   | $x$   |
+| $x$   | $x$   | 1   |    |     |     |
+
+Thus there is only one group of order 2.
+
+#### Order 3
+Let $G$ be a group of order 3. Let all elements in the list: $\{ 1_{G},x,y \}$.
+Next we must question what the value of $x^{2}$ could be.
+- It can not be equal to one, as that would mean $x=1_{G}$.
+- Suppose $x^{2}=1$. So $\{ 1,x^{2} \}$ is a subgroup of $G$.
+	List: $1,x,y$
+	

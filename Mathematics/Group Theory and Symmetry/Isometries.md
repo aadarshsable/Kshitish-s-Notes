@@ -24,32 +24,3 @@ Therefore in this context, [symmetry](<Geometrical Symmetry>) and isometry are t
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Linker](Mathematics/Contents.md)
