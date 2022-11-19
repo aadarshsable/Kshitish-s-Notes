@@ -72,5 +72,33 @@ Let $G$ be a group of order 3. Let all elements in the list: $\{ 1_{G},x,y \}$.
 Next we must question what the value of $x^{2}$ could be.
 - It can not be equal to one, as that would mean $x=1_{G}$.
 - Suppose $x^{2}=1$. So $\{ 1,x^{2} \}$ is a subgroup of $G$.
-	List: $1,x,y$
+	List: 1, $x$
+	    $y$,
+	We can now ponder about nature of $y \circ x$:
+	- If $y \circ x =1$, $y=x ^{-1}$. But as $x^{2}=1 \implies x= x ^{-1}$ which means $y=x$ which is a contradiction.
+	- If $y \circ x=x$ or $y \circ x=y$, $x=1 \text{ or } y=1$ which is a contradiction.
+	Therefore $y \circ x$ can not be defined, therefore $x^{2} \neq 1$
+- Therefore $x^{2}=y$.
+	So, our list is $\{ 1,x,x^{2} \}$
+	We can now ponder about nature of $x \circ x^{2}$.
+	- If $x \circ x^{2}=1 \implies x^{2}=1$ which is a contradiction
+	- If $x \circ x^{2}=x^{2} \implies x=1$ which is a contradiction
+	So $x \circ x^{2}=1$. Therefore there is only 1 group of order 3.
+
+#### Order 4
+Let $G$ have order 4. Let $x$ be an element of $G$ such that $x \neq 1$. The list of all powers of $x$ is $1,x,x^{2},x^{3},\dots$
+We know that there exists $d\leq4$, such that $x^{d}=1$. 
+Since $x \neq 1$,
+- Suppose $x^{2}=1$
+	List: 1, $x$
+	    $y$, $z$
+	We have already seen in [[Sub Groups#Order 3 | order 3]] that $y \circ x$ can not be equal to $1, x \text{ or } y$. Therefore $y \circ x = z$.
+	List: 1, $x$
+	    $y$, $yx$
+	$y^{2}$ can not be equal to $y$ or $yx$. Therefore it can only be $y^{2}=x \text{ or } y^{2}=1$
+	- Case $y^{2}=x$
+		So all the elements are $1,y,y^{2},y^{3}$ all distinct.
+		Let $y^{4}$ be some element of this set.
+		$y^{4} \ne y^{3} \neq y^{2} \neq y$ as that would lead to contradictions. So, $y^{4}=1$.
+		Therefore one possible group is $\{ 1,y,y^{2},y^{3} \}$
 	
