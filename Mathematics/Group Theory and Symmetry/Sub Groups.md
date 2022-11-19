@@ -101,4 +101,20 @@ Since $x \neq 1$,
 		Let $y^{4}$ be some element of this set.
 		$y^{4} \ne y^{3} \neq y^{2} \neq y$ as that would lead to contradictions. So, $y^{4}=1$.
 		Therefore one possible group is $\{ 1,y,y^{2},y^{3} \}$
-	
+	- Case $y^{2}=1$
+		We can think about the $x \circ y$ next.
+		If $x \circ y=1\implies y=x ^{-1}$ which is a contradiction as $x ^{2}= 1 \implies x = x ^{-1}$, which implies $x=y$.
+		So $x \circ y \neq 1$.
+		Similarly $x \circ y \neq x \neq y$.
+		Therefore the only other possibility is $x \circ y=y \circ x$
+
+		Now we can calculate all the products easily.
+		Example:			$$
+			\begin{align}
+(x \circ y)(x \circ y) &= x (y \circ x) y \\
+&=x(x \circ y)y \\
+&=x^{2} \circ y^{2} \\
+&=1
+\end{align}
+		$$
+		Therefore  
