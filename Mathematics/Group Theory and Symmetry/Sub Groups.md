@@ -117,4 +117,5 @@ Since $x \neq 1$,
 &=1
 \end{align}
 		$$
-		Therefore  
+		Therefore we can say that $\{ 1, x, y, xy \}$ is a possible set.
+		
