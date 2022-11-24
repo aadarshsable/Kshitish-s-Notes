@@ -6,4 +6,6 @@
 	- [[Permutations]]
 	- [[Sub Groups]]
 	- [[Symmetry in Regular N-gons]]
+	- [[Lagrange's Theorem]]
+	- [[Cosets]]
 	- 
