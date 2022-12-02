@@ -33,3 +33,4 @@ Then $X'$ is the image of $X$ under translation through $d$ along $R$
 
 - First Theorem
 	!![Theorem: All isometries of plane can only be of 4 types](https://math.uchicago.edu/~may/VIGRE/VIGRE2009/REUPapers/Boswell.pdf)
+Alpha
