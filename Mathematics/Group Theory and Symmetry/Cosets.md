@@ -20,7 +20,11 @@ So, the left cosets of $H$ give a partition of $G$.
 
 We saw earlier that there is a $1-1$ correspondence from $H$ to $gH$ for any $g \in G$. So if $H$ is infinite, we can see that $|gH| =|H|$ for any $g \in G$.
 
-$Theorem:$ Let $G$ be a finite group and let $H$ be a subgroup of $G$. Then $|H|$ divides $|G|$
+```ad-note
+title: Theorem
+icon: infinity
+color: 0,255,255
+Let $G$ be a finite group and let $H$ be a subgroup of $G$. Then $|H|$ divides $|G|$
 $Proof:$ As $G$ is a set of a finite set, the set $G/H$ is also finite.
 $G$ is the union of all the left cosets of $H$. Any two distinct cosets are disjoint. For any coset $gH$, we have $|gH|=|H|$.
 
@@ -29,3 +33,6 @@ So $|H|$ divides $|G|$.
 
 $Corollary:$ Let $G$ be a finite group. Then, for any $x \in G$, $ord(x)$ divides $|G|$.
 $Proof:$ Apply the theorem with $H= <x>$.
+
+```
+
