@@ -55,3 +55,13 @@ So, $a-b(2a) \in S$. Therefore $S$ is non empty in this case too
 So $S$ has a smallest element, which we can denote by $r$. As $r \in S$, there exists some $q \in Z$ such that:
 $a-bq=r$. If $r\geq b, r-b \geq 0\implies a -bq-r\geq 0$
 This means $a-b(q+1) \in S$, but $a-b(q+1)<r$. Therefore the existence is proved by *contradiction*
+
+### Uniqueness
+
+Suppose we have two pairs $(q_{1},r_{1})$ and $q_{2},r_{2}$ with the required property. So, $a=bq_{1}+r_{1}$ and $a=bq_{2}+r_{2}$.
+Then if $r_{1}=r_{2}$, $q_{1}=q_{2}$.
+
+So, if possible, let $r_{1} \ne r_{2}$. Suppose $r_{1}<r_{2}$. So $r_{2}-r_{1}>0$. Then $bq_{1}-bq_{2}=r_{2}-r_{1} \implies b(q_{1}-q_{2})=r_{2}-r_{1}$. As $b>0$ and $r_{2}-r_{1}>0$, we see that $q_{1}-q_{2}>0$. So, $q_{1}-q_{2}\geq1 \implies r_{2}-r_{1}=b(q_{1}-q_{2})\geq b$. But $r_{2}<b$ and $r_{1} \geq0$
+So $r_{2}-r_{1}<b$ which is a **contradiction**.
+So, the case of $r_{1}=r_{2}$ is impossible. Thus, $r_{1}=r_{2}$ and so $q_{1}=q_{2}$. This therefore proves the uniqueness of the the ordered par $(q,r)$
+
