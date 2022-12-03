@@ -24,18 +24,35 @@ Proof:
 $m | a-b \implies a-b \equiv mx$ for some $x \in \mathbb{Z}$
 $m | c-d \implies c-d \equiv my$ for some $y \in \mathbb{Z}$
 
-So,$$\begin{align}
+So,
+$$
+\begin{align}
 (a+c)-(b+d) &= (a-b) + (c-d) \\
 &=mx+my \\
 &=m(x+y) \\
 
-\text{So,} a+c=b+d \text{ } mod(m)
-\end{align}$$
+\text{So, }  a+c=b+d \text{ } mod(m)
+\end{align}
+$$
 ```
 
+```ad-note
 title: Multiplication
 color: 255,0,255
 $a \equiv b \text{ } mod(m)$ and $c \equiv d \text{ } mod(m)$
 $\implies ac \equiv bd \text{ } (mod \text{ } m)$
+
 Proof:
->$a-b=mx$ and $c-d=my$ for some $x,y \in \mathbb{Z}$
+	$a-b=mx$ and $c-d=my$ for some $x,y \in \mathbb{Z}$
+	So,
+	$$
+	\begin{align}
+ac-bd &=(b+mx)(d+my)-bd \\
+&=m(xd+by+mxy)
+\end{align}
+	$$
+This shows that,
+$ac \equiv bd \text{ } mod(m)$
+```
+
+This means we can define binary operations $+$ and $\times$ on $Z/m\mathbb{Z}$.
