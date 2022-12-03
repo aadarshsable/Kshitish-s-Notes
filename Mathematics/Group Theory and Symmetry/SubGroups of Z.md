@@ -1,4 +1,4 @@
-We know that if $m$ is any integer, the set
+1+We know that if $m$ is any integer, the set
 $m\mathbb{Z}=\{ mx | x \in \mathbb{Z} \}$
 is a subgroup of $\mathbb{Z}$
 
@@ -89,3 +89,32 @@ But, $m\mathbb{Z} \subseteq H \implies H=m\mathbb{Z}$
 ```
 
 ## Cosets of Subgroup of $\mathbb{Z}$
+
+Let $H$ be a subgroup of $\mathbb{Z}$. Assume $H \ne \{ 0 \}$
+Thus, there exists $m>0$ such that $H=m\mathbb{Z}$. Any coset of $H$ is of the form $a+m\mathbb{Z}$, $a \in \mathbb{Z}$
+$a+m\mathbb{Z}=b+m\mathbb{Z}$ when $a \in b+m\mathbb{Z}$
+$\implies a=b+md$ for some integer $d$
+$\implies a-b=md$ for some integer $d$
+$\implies$ $m$ divides $a-b$ using division algorithm.
+
+Let $q_{1},r_{1} \in \mathbb{Z}$ such that $a=mq_{1}+r_{1}, \text{ } \text{ } 0\leq r <m$ and
+$q_{2},r_{2} \in \mathbb{Z}$ such that $b=mq_{2}+r_{2}, \text{ } \text{ } 0 \leq r_{2} <m$
+Then, $a-b=m(q_{1}-q_{2})+(r_{1}-r_{2})$. 
+In this $m$ divides $a-b$ only if $m$ divides $r_{1}-r_{2}$.
+
+If $r_{1}>r_{2}$, $0\leq r_{1} -r_{2}< m$ and so $m$ cannot divide $r_{1}-r_{2}$.
+Similarly, if $r_{2}>r_{1}$, $0\leq r_{2}-r_{1}<m$ and so $m$ can not divide $r_{2}-r_{1}$. So $m$ can not divide $r_{1}-r_{2}=-(r_{2}-r_{1})$. 
+So we can prove that if $m$ divides $r_{2}-r_{1}$ then $r_{2}=r_{1}$.
+
+Thus we have proved that, 
+$a+m\mathbb{Z}=b+m\mathbb{Z}$ if and only if $a$ and $b$ leave the same remainder when divided by $m$.
+
+So, the cosets of $m\mathbb{Z}$ are:
+$$
+m\mathbb{Z},1+m\mathbb{Z},2+m\mathbb{Z},\dots,(m-1)+m\mathbb{Z}
+$$
+The collection of all these cosets is $\mathbb{Z}/m\mathbb{Z}$.
+
+```ad-note
+Note that in this case, the left and right cosets are the same.
+```
