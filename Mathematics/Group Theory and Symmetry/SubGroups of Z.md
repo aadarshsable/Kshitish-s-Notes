@@ -64,7 +64,7 @@ Then if $r_{1}=r_{2}$, $q_{1}=q_{2}$.
 So, if possible, let $r_{1} \ne r_{2}$. Suppose $r_{1}<r_{2}$. So $r_{2}-r_{1}>0$. Then $bq_{1}-bq_{2}=r_{2}-r_{1} \implies b(q_{1}-q_{2})=r_{2}-r_{1}$. As $b>0$ and $r_{2}-r_{1}>0$, we see that $q_{1}-q_{2}>0$. So, $q_{1}-q_{2}\geq1 \implies r_{2}-r_{1}=b(q_{1}-q_{2})\geq b$. But $r_{2}<b$ and $r_{1} \geq0$
 So $r_{2}-r_{1}<b$ which is a **contradiction**.
 So, the case of $r_{1}=r_{2}$ is impossible. Thus, $r_{1}=r_{2}$ and so $q_{1}=q_{2}$. This therefore proves the uniqueness of the the ordered pair $(q,r)$
-
+```ad-note
 title: Theorem
 icon: infinity
 color: 0,255,255
@@ -72,12 +72,23 @@ color: 0,255,255
 Any subgroup $H$ of $\mathbb{Z}$ is of the form $m\mathbb{Z}$ for some $m \geq 0$.
 
 Proof:
->Let $H$ be a subgroup of $\mathbb{Z}$.
->Let $S=\{ x \text{ }| \text{ } x \in H,x>0 \}$
->Case 1:
->	Suppose $S=\phi$.
->	Thus all elements of $H$ are non positive. If $\exists \text{ } x \in H$ such that $x<0$, then $-x>0$. But $-x \in H \implies -x \in S$ which is a **contradiction**
->	So $H$ has no negative elements, so $H=\{ 0 \}$, so we can take $m=0$
->Case 2:
->	Suppose $S \ne \phi$.
->	Then, $S$ has a smallest element, which we denote by
+Let $H$ be a subgroup of $\mathbb{Z}$.
+Let $S=\{ x \text{ }| \text{ } x \in H,x>0 \}$
+
+Case 1:
+>Suppose $S=\phi$.
+>Thus all elements of $H$ are non positive. If $\exists \text{ } x \in H$ such that $x<0$, then $-x>0$. But $-x \in H \implies -x \in S$ which is a **contradiction**
+>So $H$ has no negative elements, so $H=\{ 0 \}$, so we can take $m=0$
+
+
+Case 2:
+>Suppose $S \ne \phi$.
+>Then, $S$ has a smallest element, which we denote by $m$. We claim that $H=m\mathbb{Z}$. Indeed, suppose $x \in H$ is any element. By division algorithm, $\exists \text{ } q,r \in \mathbb{Z}$ such that $x=qm+r$, $0\leq r < m$. 
+>Then, as $x \in H$ and $qm\in H$, $r=x-qm \in H$. If $r>0, e \in S$.
+>But $r<m$ and $m$ is the smallest element of $S$ which is a **contradiction**.
+>So, $r=0$
+Thus, $x=q.m \implies x \in m\mathbb{Z}$
+Thus, $H \subseteq m\mathbb{Z}$
+But, $m\mathbb{Z} \subseteq H \implies H=m\mathbb{Z}$  
+```
+
