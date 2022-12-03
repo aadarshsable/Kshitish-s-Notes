@@ -37,25 +37,20 @@ icon: infinity
 
 Consider the set $S=\{ a-bm \text{ }| \text{ }m \in \mathbb{Z}, \text{ } a-bm \geq 0 \}$
 We claim that $S$ is non-empty.
-```
-```ad-note
-title: Case 1
-color: 255,0,255
-Suppose $a\geq 0$.
-Then $a=a-b.0 \in S$
-```
-```ad-note
-title: Case 2
-color: 255, 255, 0
-Suppose $a< 0$
-Then $a-b(2a)=a(1-2b)$. As $b \geq1, \text{ } 2b\geq 2$ and so $1-2b <0$. As $a<0, \text{ } a(1-2b)>0$.
-So, $a-b(2a) \in S$. Therefore $S$ is non empty in this case too
-```
+
+Case 1:
+>Suppose $a\geq 0$.
+>Then $a=a-b.0 \in S$
+
+Case 2:
+>Suppose $a< 0$
+>Then $a-b(2a)=a(1-2b)$. As $b \geq1, \text{ } 2b\geq 2$ and so $1-2b <0$. As $a<0, \text{ } a(1-2b)>0$.
+>So, $a-b(2a) \in S$. Therefore $S$ is non empty in this case too
 
 So $S$ has a smallest element, which we can denote by $r$. As $r \in S$, there exists some $q \in Z$ such that:
 $a-bq=r$. If $r\geq b, r-b \geq 0\implies a -bq-r\geq 0$
 This means $a-b(q+1) \in S$, but $a-b(q+1)<r$. Therefore the existence is proved by *contradiction*
-
+```
 ### Uniqueness
 
 Suppose we have two pairs $(q_{1},r_{1})$ and $q_{2},r_{2}$ with the required property. So, $a=bq_{1}+r_{1}$ and $a=bq_{2}+r_{2}$.
@@ -64,6 +59,7 @@ Then if $r_{1}=r_{2}$, $q_{1}=q_{2}$.
 So, if possible, let $r_{1} \ne r_{2}$. Suppose $r_{1}<r_{2}$. So $r_{2}-r_{1}>0$. Then $bq_{1}-bq_{2}=r_{2}-r_{1} \implies b(q_{1}-q_{2})=r_{2}-r_{1}$. As $b>0$ and $r_{2}-r_{1}>0$, we see that $q_{1}-q_{2}>0$. So, $q_{1}-q_{2}\geq1 \implies r_{2}-r_{1}=b(q_{1}-q_{2})\geq b$. But $r_{2}<b$ and $r_{1} \geq0$
 So $r_{2}-r_{1}<b$ which is a **contradiction**.
 So, the case of $r_{1}=r_{2}$ is impossible. Thus, $r_{1}=r_{2}$ and so $q_{1}=q_{2}$. This therefore proves the uniqueness of the the ordered pair $(q,r)$
+
 ```ad-note
 title: Theorem
 icon: infinity
@@ -92,3 +88,4 @@ Thus, $H \subseteq m\mathbb{Z}$
 But, $m\mathbb{Z} \subseteq H \implies H=m\mathbb{Z}$  
 ```
 
+## Cosets of Subgroup of $\mathbb{Z}$
