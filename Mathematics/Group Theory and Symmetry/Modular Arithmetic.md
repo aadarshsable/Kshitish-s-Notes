@@ -117,3 +117,5 @@ Proof:
 	$$
 	So $d|1$, so $d=\pm1$. Thus we can see that the only common factors of $m$ and $a$ are $\pm1$.
 	Hence, we have proved that $a+m\mathbb{Z}$ is invertible only if $gcd(a,m)=1$, i.e. $a$ and $m$ are coprime to each other.
+	The reverse can also be said, if $gcd(a,m)=1$ then $a+m\mathbb{Z}$ is also invertible.
+	
