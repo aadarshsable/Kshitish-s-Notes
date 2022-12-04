@@ -8,4 +8,6 @@
 	- [[Symmetry in Regular N-gons]]
 	- [[Lagrange's Theorem]]
 	- [[Cosets]]
-	- 
+	- [[SubGroups of Z]]
+	- [[U(m)]]
+	- [[Modular Arithmetic]]
