@@ -35,5 +35,30 @@ Thus, $\phi$ is a group isomorphism.
 ## $ord(a)=m$ for some $m \in \mathbb{Z}$
 
 Lemma:
+Suppose $a^{n}=1$ for some integer $n$. Then, $m|n$
 
-Suppose $a^{n}=1$ for some integer $n$. Then, $m|n$ 
+Proof:
+using the division algorithm, we write
+$n=mq+r$ where $0 \leq r < m$
+Then $1=a^{n}=a^{mq+r}=(a^{m})^{q}.a^{r}=1.a^{r}=a^{r}$
+But $r<m$, so $a^{r}=1$ is impossible unless $r=0$.
+
+Suppose $i$ and $j$ are distinct integers such that $a^{i}=a^{j}$. Then $a^{i-j}$ =1. So, $m|i-j$, i.e. $i \equiv j \text{ } mod(m)$. Conversely, if $i \equiv j \text{ } mod(m)$ then  $i=j+mx$ for some $x \in \mathbb{Z}$
+So, $a^{i}=a^{mx+j}=(a^{m})^{x}.a^{j}=a^{j}$
+Thus, $a^{i}=a^{j}$ if and only if $i$ and $j$ lie in the same coset of $m\mathbb{Z}$.
+
+We define
+$\phi: \mathbb{Z}/m\mathbb{Z} \to <a>$ by
+$\phi(\bar{n})=a^{n}$
+This is well defined because if $\bar{n_{1}}=\bar{n_{2}}$, then $n_{1} \equiv n_{2} \text{ } mod(m)$ and so $a^{n_{1}}=a^{n_{2}}$
+Also, if $\phi(\bar{n_{1}})=\phi(\bar{n_{2}})$, we have seen that $n_{1} \equiv n_{2} \text{ } mod(m)$, i.e. $\bar{n_{1}}=\bar{n_{2}}$.
+So $\phi$ is a $1-1$ function and is indeed onto for any $n \in \mathbb{Z}$, $\phi(\bar{n})=a^{n}$.
+Thus $\phi$ is a $1-1$ correspondence.
+$$
+\begin{align}
+\phi(\bar{n_{1}}+\bar{n_{2}}) &= a^{n_{1}+n_{2}} \\
+&= a^{n_{1}}.a^{n_{2}} \\
+&= \phi(\bar{n_{1}}).\phi(\bar{n_{2}})
+\end{align}
+$$
+Thus, $\phi$ is a group isomorphism.
