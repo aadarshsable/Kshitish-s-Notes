@@ -52,4 +52,10 @@ $G=\{ 1,a,a^{2},\dots,a^{m-1} \}$
 Let $H$ be a subgroup of $G$. Suppose $H \neq \{ 1 \}$
 Let $t=$ smallest positive integer such that $t <m$ and $a^{t} \in H$.
 
-We claim that $H=<a^{t}>$ 
+We claim that $H=<a^{t}>$. Indeed let $a^{s}$ be in $H$. Write $s=tq+r$, where $q,r \in \mathbb{Z}$ and $0 \leq r < t$.
+Then, $a^{r}=a^{s}.a^{-tq} \text{ } \in H$. But by choice of $t$, this is possible only if $r=0$. Thus $a^{s}\in <a^{t}>$.
+Thus, $H \subseteq <a^{t}>$, we conclude that $H=<a^{t}>$
+
+## The group $U(m)$
+
+
