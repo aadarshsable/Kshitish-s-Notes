@@ -130,3 +130,9 @@ Let $m$ be a positive integer. Let $a \in \mathbb{Z}$ such that $gcd(a,m)=1$. Th
 **Proof:**
 Thus, $ord(\bar{a})/|U(m)|=\phi(m)$
 So, $\bar{a}^{\phi(m)}=\bar{1}$, i.e. $a^{\phi(m)}\equiv 1 \text{ } mod(m)$.
+
+### Corollary (Fermat's Little Theorem)
+
+Let $p$ be a prime number. Let $a \in \mathbb{Z}$. Then:
+1. If $gcd(a,p)=1$, then $a^{p-1}\equiv 1 \text{ } mod(p)$
+2. In general $a^{p}\equiv p \text{ } mod(p)$
