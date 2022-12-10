@@ -58,6 +58,75 @@ Thus, $H \subseteq <a^{t}>$, we conclude that $H=<a^{t}>$
 
 ## The group $U(m)$ and Euler's function
 
+For any positive integer $m$ we define $\phi(m)=|U(m)|$. Thus $\phi(m)=$ number of integers $k$ such that $0 \leq k< m$ and $gcd(m,k)=1$
 
+```ad-note
+title: Easy Examples
+color: 0,100,255
+icon: infinity
 
+- If $p$ is a prime number, $\phi(p)=p-1$
+- If $p$ is a prime number and $k$ is a positive integer, $\phi(p^{k})=p^{k}-p^{k-1}$. Number of integers $\leq p^{k}$ which are divisible by $p$
+```
 
+### Theorem 4
+
+Let $m,n$ be positive integers such that $gcd(m,n)=1$. Then $\phi(mn)=\phi(m)\phi(n)$.
+
+**Proof:**
+Let $r,s$ be integers such that $mr+ns=1$. We will define a function $f: U(m) \times U(n) \to U(mn)$. Let $\bar{a} \in U(m), \bar{b} \in U(n)$.
+Define:
+$f(\bar{a},\bar{b})=\bar{x} \text{ } \in \mathbb{Z}/mn\mathbb{Z}$, where $x=ans+bmr$
+Recall that $gcd(m,a)=1$ and $gcd(m,n)=1$ by hypothesis. As $mr+ns=1$, we also have $gcd(m,s)=1$.
+So, $gcd(m,ans)=1$
+So, $gcd(m,ans+bmr)=1$
+i.e. $gcd(m,x)=1$
+A similar argument shows $gcd(n,x)=1$.
+So $gcd(mn,x)=1$, i.e. $\bar{x} \in U(mn)$
+
+We need to check that $f$ is well-defined, i.e. we need to see that $\bar{x}=\overline{ans+bmr}$ does not change if we replace a and b by some elements of $\bar{a}=a+m\mathbb{Z}$ and $\bar{ b}=b=n\mathbb{Z}$ respectively.
+Suppose $a_{1}\equiv a \text{ }mod(m)$
+and $b_{1}\equiv b \text{ } mod(n)$
+Let $x_{1}=a_{1}ns+b_{1}mr$
+We see that $m|a_{1}s-as=(a_{1}-a)s$
+and so, $mn|a_{1}ns-ans$.
+Similarly, $mn|b_{1}mr-bmr$.
+So, $mn|(a_{1}ns+b_{1}mr)-(ans+bmr)=x_{1}-x$
+So, $x_{1}\equiv x \text{ } mod(mn)$, i.e. $\bar{x_{1}}=\bar{x}$
+Thus, $f$ is well defined.
+
+Claim 1:
+$f$ is $1-1$. Indeed, suppose $f(\bar{a_{1}},\bar{b_{1}})=f(\bar{a_{2}},\bar{b_{2}})$.
+Then $mn|(a_{1}ns+bmr)-(a_{2}ns+b_{2}mr)$
+  $(a_{1}ns+b_{1}mr)-(a_{2}ns+b_{2}mr)$
+$=ns(a_{1}-a_{2})+mr(b_{1}-b_{2})$
+If $m$ divides this expression, $m|ns(a_{1}-a_{2})$. But $gcd(m,ns)=1\implies m|a_{1}-a_{2}$ i.e. $\bar{a_{1}}=\bar{a_{2}}$. Similarly, $\bar{b_{1}}=\bar{b_{2}}$.
+So, $f$ is a $1-1$ function.
+
+Claim 2:
+$f$ is onto.
+Let $\bar{x} \in U(mn)$. Then $gcd(x,mn)=1 \implies gcd(x,m)=1$ and $gcd(x,n)=1$. So $(x+m\mathbb{Z}) \in U(m)$ and $(x+n\mathbb{Z}) \in U(n)$
+
+What is $f(x+m\mathbb{Z}, x+n\mathbb{Z})$
+$xns+xmr=x(ns+mr)=x.1=x$
+So, $f(x+m\mathbb{Z},x+n\mathbb{Z})=x+mn\mathbb{Z}$ i.e. $\bar{x}$. Thus, $f$ is onto.
+
+This shows that $f: U(m) \times U(n)\to U(mn)$ is a $1-1$ correspondence.
+Thus, $\phi(mn)=\phi(m).\phi(n)$
+
+#### Example:
+$$
+\begin{align}
+\phi(300) &= \phi(2^{2}.3.5^{2}) \\
+&= \phi(2^{2}).\phi(3).\phi(5^{2}) \\
+&= (2^{2}-2).(3^{1}-3^{0}).(5^{2}-5) \\
+&= 2.2.20 \\
+&= 80
+\end{align}
+$$
+### Theorem 5
+Let $m$ be a positive integer. Let $a \in \mathbb{Z}$ such that $gcd(a,m)=1$. Then, $a^{\phi(m)}\equiv1 \text{ } mod(m)$
+
+**Proof:**
+Thus, $ord(\bar{a})/|U(m)|=\phi(m)$
+So, $\bar{a}^{\phi(m)}=\bar{1}$, i.e. $a^{\phi(m)}\equiv 1 \text{ } mod(m)$.
