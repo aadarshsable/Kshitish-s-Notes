@@ -1,10 +1,10 @@
-A group $G$ is said to be **cyclic** if there exists an element $a \in G$ such that $G = <a>$.
+A group $G$ is said to be **cyclic** if there exists an element $a \in G$ such that $G = \langle a \rangle$.
 
 Examples: $\mathbb{Z}$ is cyclic. $\mathbb{Z}/m\mathbb{Z}$ is cyclic for any $m>0$.
 
 ## Structure of Cyclic Group
 
-Let $G$ be a cyclic group. Suppose $G=<a>$
+Let $G$ be a cyclic group. Suppose $G=\langle a \rangle$
 We have two possibilities:
 1. $ord(a)$ is finite
 2. $ord(a)$ is infinite
