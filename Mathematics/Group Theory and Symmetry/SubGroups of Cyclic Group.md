@@ -124,6 +124,30 @@ $$
 &= 80
 \end{align}
 $$
+
+```ad-note
+title: A better way to find $\phi(n)$
+color: 0,0,255
+icon: infinity
+
+A better way to find $\phi(m)$ that works better for higher powers of primes.
+
+$\phi(m)=m\prod_{p_{i}|m}\left( 1-\frac{1}{p_{i}} \right)$
+
+where $p_{i}$ is a unique prime factor of $m$.
+
+Example:
+
+$$
+\begin{align}
+\phi(300) &= 300\left( 1-\frac{1}{2} \right)\left( 1-\frac{1}{3} \right)\left( 1-\frac{1}{5} \right) \\
+&= 300 \times \frac{1}{2} \times \frac{2}{3} \times \frac{4}{5} \\
+&= 300 \times \frac{4}{15} \\
+&= 80
+\end{align}
+$$
+```
+
 ### Theorem 5
 Let $m$ be a positive integer. Let $a \in \mathbb{Z}$ such that $gcd(a,m)=1$. Then, $a^{\phi(m)}\equiv1 \text{ } mod(m)$
 

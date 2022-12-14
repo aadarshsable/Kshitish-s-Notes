@@ -9,7 +9,7 @@ Let $G$ be a group. Let $S$ be a set of all subgroups of $G$. Then, the intersec
 
 ### Proof:
 
-Let $K=\cap H \text{ where } H \in S$
+Let $K=\cap_{H \in S} H$
 
 #### Identity: 
 
