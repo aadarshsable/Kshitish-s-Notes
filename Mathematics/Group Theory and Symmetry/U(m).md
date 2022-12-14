@@ -37,5 +37,5 @@ $U(m)$ is a group under multiplication
 	Note that $\bar{5}^{2}=\bar{25}=\bar{1}$
 2. m=10
 	$U(10)=\{ \bar{1},\bar{3},\bar{7},\bar{9} \}$
-	$\bar{3}^{2}=\bar{9},\bar{3}^{3}=\bar{27}=\bar{7}$. So,
+	$\bar{3}^{2}=\bar{9},\bar{3}^{3}=\overline{27}=\bar{7}$. So,
 	$U(10)=\{ \bar{1},\bar{3},\bar{3}^{2},\bar{3}^{3} \}$
