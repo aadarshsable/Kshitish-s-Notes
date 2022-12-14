@@ -87,8 +87,10 @@ Proof:
 
 1. $m\mathbb{Z}$ is the identity:
 		$(m\mathbb{Z})+(a+m\mathbb{Z})=(a+0)+m\mathbb{Z}=a+m\mathbb{Z}$
+		
 2. $(-a) +m\mathbb{Z}$ is the inverse:
 		$(a+m\mathbb{Z})+(-a+m\mathbb{Z})=(a-a)+m\mathbb{Z}=m\mathbb{Z}$
+		
 3. Associativity:	$$
 		\begin{align}
 (a+m\mathbb{Z})+((b+m\mathbb{Z})+(c+m\mathbb{Z})) \\
@@ -102,6 +104,7 @@ Proof:
 		$$
 4. Distributivity:
 	Recall that in $\mathbb{Z},\mathbb{Q},\mathbb{R}$; multiplication distributes over addition. In other words, $(a+b).c=ac+bc$ and $a.(b+c)=ab+ac$. We get such identities in $\mathbb{Z}/m\mathbb{Z}$ as well.
+	
 5. Multiplicative Inverses in $\mathbb{Z}/\mathbb{Z}$:
 	We say that  an element $(a+m\mathbb{Z})$ on $(\mathbb{Z}/m\mathbb{Z})$ is invertible if it has a multiplicative inverse, i.e. if there exists an integer $b$ such that $(a+m\mathbb{Z}).(b+m\mathbb{Z})=1+m\mathbb{Z}$
 	Suppose $a+m\mathbb{Z}$ has a multiplicative inverse $b+m\mathbb{Z}$. Then, $ab+m\mathbb{Z} =1 + m\mathbb{Z}$, i.e. $ab \equiv 1 \text{ } mod(m)$.

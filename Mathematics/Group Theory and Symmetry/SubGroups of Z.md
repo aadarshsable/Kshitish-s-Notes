@@ -1,4 +1,4 @@
-1+We know that if $m$ is any integer, the set
+We know that if $m$ is any integer, the set
 $m\mathbb{Z}=\{ mx | x \in \mathbb{Z} \}$
 is a subgroup of $\mathbb{Z}$
 
@@ -51,8 +51,8 @@ So $S$ has a smallest element, which we can denote by $r$. As $r \in S$, there e
 $a-bq=r$. If $r\geq b, r-b \geq 0\implies a -bq-r\geq 0$
 This means $a-b(q+1) \in S$, but $a-b(q+1)<r$. Therefore the existence is proved by *contradiction*
 ```
-### Uniqueness
 
+### Uniqueness
 Suppose we have two pairs $(q_{1},r_{1})$ and $q_{2},r_{2}$ with the required property. So, $a=bq_{1}+r_{1}$ and $a=bq_{2}+r_{2}$.
 Then if $r_{1}=r_{2}$, $q_{1}=q_{2}$.
 
