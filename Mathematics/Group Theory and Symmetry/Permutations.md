@@ -81,3 +81,28 @@ We do not need $\sigma^{r}=1$, only that $\sigma^{r}(1)=1$. So, $r$ maybe smalle
 We claim that the elements $1,\sigma(1),\dots,\sigma^{r-1}(1)$ are all distinct.
 
 If not, there exists non-negative integers $i<j$ such that $\sigma^{i}(1)=\sigma^{j}(1)$. Composing with $\sigma^{-i}$ on both sides, we get $\sigma^{j-i}(1)=1$. But $j-i>0$ and $j-i<r$. This contradicts the minimality of $r$. Thus, the elements $1,\sigma(1),\dots,\sigma^{r-1}(1)$ are all distinct.
+
+If not, there exist non negative integers $i<j$ such that $\sigma^{i}(1)=\sigma^{j}(1)$. Composing with $\sigma ^{-i}$ on both sides we get $\sigma^{j-i}(1)=1$.
+But $j-i>0$ and $j-i<r$. This contradicts the minimality of $r$.
+
+Thus the elements $1,\sigma(1),\dots,\sigma^{r-1}(1)$ are all distinct. In fact, the infinite sequence $\dots,\sigma^{-2}(1),\sigma^{-1}(1),1,\sigma(1),\sigma^{2}(1),\dots$ consists of the pattern $1,\sigma(1),\dots$ repeating infinitely (in both direction).
+
+![Pictorial Representation](https://i.imgur.com/XLYPmza.png)
+
+Let $A_{1}= \{ 1, \sigma(1), \dots,\sigma^{r-1}(1) \}$
+If $A_{1} \ne \{ 1,2,3,\dots,n \}$, choose some $x \notin A_{1}$ and repeat the process to obtain a cycle:
+$x,\sigma(x),\dots,\sigma^{s-1}(x)$ for some integer value of $s$.
+
+Let $A_{2}=\{ x, \sigma(x), \dots, \sigma^{s-1}(x) \}$
+![Pictorial Represenattion 2](https://i.imgur.com/ZeDJXnX.png)
+
+Observer that $A_{1}$ and $A_{2}$ are disjoint. If $A_{1} \cup A_{2} =\{ 1,2,3,\dots,n \}$, we stop. Otherwise, we choose some $y \notin A_{1} \cup A_{2}$ and repeat the process. 
+This process must end in at most $n$ steps.
+
+Suppose, after $p$ steps, we have disjoint sets $A_{1},A_{2},\dots,A_{p}$ such that $\sigma$ acts on the elements of each $A_{i}$ "cyclically".
+
+## Cycle
+
+A permutation $\sigma$ of a set $S$ is called a cycle if there exists a finite set $A=\{ a_{1},\dots,a_{r} \}$ such that $\sigma(a_{1})=a_{2},\sigma(a_{2})=a_{3},\dots,\sigma(a_{r})=a_{1}$.
+The integer $r$ is called the **length of the cycle**. The cycle $\sigma$ is then written as $(a_{1},a_{2},\dots,a_{r})$.
+Two cycles $(a_{1},a_{2},\dots,a_{r})$ and $(b_{1},b_{2},\dots,b_{r})$ are said to be disjoint if $a_{k} \ne b_{l}$ for any $k,l$.
