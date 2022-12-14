@@ -105,4 +105,11 @@ Suppose, after $p$ steps, we have disjoint sets $A_{1},A_{2},\dots,A_{p}$ such t
 
 A permutation $\sigma$ of a set $S$ is called a cycle if there exists a finite set $A=\{ a_{1},\dots,a_{r} \}$ such that $\sigma(a_{1})=a_{2},\sigma(a_{2})=a_{3},\dots,\sigma(a_{r})=a_{1}$.
 The integer $r$ is called the **length of the cycle**. The cycle $\sigma$ is then written as $(a_{1},a_{2},\dots,a_{r})$.
-Two cycles $(a_{1},a_{2},\dots,a_{r})$ and $(b_{1},b_{2},\dots,b_{r})$ are said to be disjoint if $a_{k} \ne b_{l}$ for any $k,l$.
+Two cycles $(a_{1},a_{2},\dots,a_{r})$ and $(b_{1},b_{2},\dots,b_{r})$ are said to be disjoint if $a_{k} \ne b_{l}$ for any $k,l$. 
+
+Recall that we have partitioned the set $\{ 1,2,3,\dots,n \}$ into $p$ *disjoint* subsets $A_{1},A_{2},A_{3},\dots,A_{p}$ such that for each $i$, $1 \leq i \leq p$, $A_{i}= \{ a_{i_{1}},a_{i_{2}},\dots,a_{i_{r_{i}}} \}$ and $\sigma(a_{i_{1}})=a_{i_{2}},\dots,\sigma(a_{i_{r_{i}}})=a_{i_{1}}$.
+Then, we observe that if $\sigma_{i}=(a_{i_{1}},a_{i_{2}},\dots)$ then
+$\sigma= \sigma_{1} \circ \sigma_{2} \circ \sigma_{3}\dots \circ \sigma_{p}$. Indeed for any $x \in \{ 1,2,\dots,n \}$ there is some $i$ such that $x \in A_{i}$. Let us compute $\sigma_{1} \circ \sigma_{2}\dots \circ \sigma_{p}(x)$.
+
+
+If $j>i$, $\sigma_{j}(x)=x$. So $\sigma_{i+1} \circ \dots \sigma$
