@@ -72,4 +72,10 @@ The effect of the d-block contraction occurs on the period of 4 elements due to 
 - The structures of these two metals also differ from the hexagonal, closely packed structure encountered for most of the lanthanide metals.
 - Europium $(Eu)$ and Ytterbium $(Yb)$ are expected to give only two valence electrons because of the inherent stability of half-filled and fully filled orbitals which would be achieved in these cases.
 
-## Actinide Contra
+## Actinide Contraction
+
+- The contraction is caused due to imperfect shielding of one $5f$ electron by another in the same shell.
+- As we move along the actinide series, the nuclear charge and the number of $5f$ electron increase one unit by each step.
+- Due to imperfect shielding (shape of $f$ orbitals are very much diffused) the effective nuclear charge increases which causes contraction in the size of electron cloud.
+- In actinide contraction there are bigger jumps in contraction between the consecutive elements as compared to lanthanides.
+- Lesser shielding of $5f$ electrons compared to $4f$ electrons.
