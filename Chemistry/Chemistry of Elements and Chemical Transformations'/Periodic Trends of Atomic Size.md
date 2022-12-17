@@ -36,7 +36,7 @@ $Z^{*}=Z-\text{ screening constant}(S)$
 
 The d-block contraction is also known as the Scandide contraction. 
 
-The effect of the d-block contraction occurs on the period of 4 elements due to the full d orbitals. This contraction thing affects the elements *Gallium(Ga)*, *Germanium(Ge)*,*Arsenic(As)*, *Selenium(Se)*, *Bromine(Br)*, and  *Krypton(Kr)* mainly.
+The effect of the d-block contraction occurs on the period of 4 elements due to the full d orbitals. This contraction thing affects the elements *Gallium(Ga)*, *Germanium(Ge)*, *Arsenic(As)*, *Selenium(Se)*, *Bromine(Br)*, and *Krypton(Kr)* mainly.
 
 ## Lanthanide Contraction
 
