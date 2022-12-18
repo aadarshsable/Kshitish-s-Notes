@@ -1,19 +1,15 @@
 ## Membranes are fluid mosaics of lipids and proteins with many functions
 
-Biologists use the fluid mosaic model to describe a membrane's structure 
-i.e, a diverse protein molecules suspended in a fluid phsopholipid bilayer.
+Biologists use the fluid mosaic model to describe a membrane's structure i.e., a diverse protein molecules suspended in a fluid phospholipid bilayer.
 This model illustrates the structure and function of a plasma membrane.
 
-[Fluid Mosaic Model](<Fluid Mosaic Model>)
-
-![[Pasted image 20221217115506.png]]
-
+### Fluid Mosaic Model
 The ***Lipid Bilayer model*** is a subset of ***Fluid Mosaic Model*** as it also contains Lipid Bilayers but with additional **Proteins** and **Glycolipids**
-Additional **Gobular Proteins** aree also embedded into the lipid bilayer
+Additional **Globular Proteins** are also embedded into the lipid bilayer
 
-- ***Fluid Mosaic Model*** was formated by Singer-Nicolson (1972)
-- ***Lipid Bilayer Model*** was formated by Gorter and Grender (1925)
-- ***Sandwich Model*** was formated by Danielli-Dawson (1935)
+- ***Fluid Mosaic Model*** was formatted by Singer-Nicolson (1972)
+- ***Lipid Bilayer Model*** was formatted by Gorter and Grender (1925)
+- ***Sandwich Model*** was formatted by Danielli-Dawson (1935)
 
 ### Cell Recognition
 - The **Glycolipids** & **Glycoproteins** also help in cell recognition
@@ -31,7 +27,7 @@ Additional **Gobular Proteins** aree also embedded into the lipid bilayer
 	  We can demonstrate this by shaking phospholipids and water. The lipids will form a bilayer surrounding around water-filled bubbles
 	  
 ![[Pasted image 20221216182320.png]]
-- The Phospholipids can arrange themselves latteraly very easily and move faster than the proteins
+- The Phospholipids can arrange themselves laterally very easily and move faster than the proteins
 
 ### Types of Phospholipids
 ![[Pasted image 20221217135723.png]]
@@ -52,11 +48,11 @@ Similarly, Fluidity increases with increase in Temperature
 #### Cholesterol (buffer)
 Cholesterol inserts itself between the phospholipids through Transmembrane Proteins
 At Low Temperature, due to insertion of cholesterol the distance between the Phospholipids increases thus Fluidity increases.
-At High Temperature, insertion of cholesterol brings the phospholipids close together as they were already far apart, which decreases the Fluidity
+At High Temperature, insertion of cholesterol brings the phospholipids close together as they were already far apart, which decreases the fluidity.
 
-#### Saturated and Unsatured FattyAcids
-Satured Fattyacids decreases the Fluidity while
-Unsatured fattyacids increases the Fluidity
+#### Saturated and Unsaturated Fatty Acids
+Saturated fatty acids decreases the fluidity while
+Unsaturated fatty acids increases the fluidity.
 
 ![[Drawing 2022-12-17 13.27.49.excalidraw.png]]
 
@@ -71,16 +67,16 @@ Unsatured fattyacids increases the Fluidity
 - ***Transmembrane Proteins & Transport Proteins***
 
 #### 1. Ion Channel
-Allows specific ion to move through water-filled pore. Most plasma membranes include specific chanells for several common ions.
+Allows specific ion to move through water-filled pore. Most plasma membranes include specific channels for several common ions.
 
 #### 2. Transporter
 Transports specific substances across membrane by changing shape. For Ex, Amino acids, needed to synthesize new proteins, enter body cells via transporters
 
 #### 3. Receptor
-Recognizes specific ligand and alters cell's fucntion is one way. For ex, Antiduretic hormone binds to rececptors in the kidneys and changes the water permeability of certain plasma membranes.
+Recognizes specific ligand and alters cell's function is one way. For ex, Anti-diuretic hormone binds to receptors in the kidneys and changes the water permeability of certain plasma membranes.
 
 #### 4. Enzyme
-Catalyzes reaciton isnide or outside cell. For Ex, lactase protruding from epithelial cells lining your small intestine splits the dissacharide lactose in the milk you drinki
+Catalyzes reaction inside or outside cell. For Ex, lactase protruding from epithelial cells lining your small intestine splits the disaccharide lactose in the milk you drink.
 
 #### 5. Linker
 Anchors filaments inside and outside to the plasma membrane, providing structural stability. May also participate in movement of the cell or link two cells together.
@@ -92,8 +88,7 @@ Anchors filaments inside and outside to the plasma membrane, providing structura
 
 #### 1. Cell identity Marker
 Distinguishes your cells from anyone else's. (***Unless an identical Twin***).
-An important class of such markers are the major histrocompatability (MHC) Proteins
-
+An important class of such markers are the Major Histocompatibility Complex (MHC) Proteins.
 
 ### Transport Protein
 Integral Membrane Proteins that transport specific ions or molecules across the membrane.
@@ -107,7 +102,7 @@ Integral Membrane Proteins that transport specific ions or molecules across the 
   - Sterol 
   - Cholesterol
 
-Hydrophilic Substances like ions and moderately sized polar molecules through transport proteins. They may provide a hydrphilic tunnel or may bind to, and physically carry a substance across.
+Hydrophilic Substances like ions and moderately sized polar molecules through transport proteins. They may provide a hydrophilic tunnel or may bind to, and physically carry a substance across.
 
 
 ### Functions of Membrane Proteins
@@ -120,32 +115,30 @@ Hydrophilic Substances like ions and moderately sized polar molecules through tr
 
 ***Diffusion:*** 
 - The tendency for particles of any substance to spread out into the available space
-- Two or more subtances diffuse independenty of each other, i.e, each diffuses down its own ***concentration gradient***
-- Because cell does not have to do work when molecules diffuse across its membrane, such movement is caled ***PASSIVE TRANSPORT***
-  i.e, the cells does not expend energy to transport substances that are diffusing down their concentration levels
+- Two or more substances diffuse independently of each other, i.e, each diffuses down its own ***concentration gradient***
+- Because cell does not have to do work when molecules diffuse across its membrane, such movement is called ***PASSIVE TRANSPORT***
+  i.e., the cells does not expend energy to transport substances that are diffusing down their concentration levels
 - Much of the **Traffic** across membranes occurs by diffusion.
 
 $Q.$ Can ions and polar molecules also diffuse across the hydrophobic interior of a membrane?
-> They can if they are moving down their concentration gradients and if they have tranport proteins to help them cross.
-
-We know what Osmosis is :)
+> They can if they are moving down their concentration gradients and if they have transport proteins to help them cross.
 
 ### Passive Transport
 - down Concentration Gradient
 - Helps polar molecules get through lipid bilayers
 - Can be saturated with solute (rate limited) (all carriers get occupied)
 - Can be due to conformational changes
-- Can be gated channels (open clossing of the proteins)
+- Can be gated channels (open closing of the proteins)
 
 ##### Passive Transport for ions depends on:
 - Concentration gradient of the ion
 - Effect of the membrane potential of the ion
-- The ***Electrochemical Gradient*** (**a measure of the free energy available to carry out the useful work of transporting the molecule across the membrane**.) is the diffusion gradient created from the combined effetcs of both of the above
+- The ***Electrochemical Gradient*** (**a measure of the free energy available to carry out the useful work of transporting the molecule across the membrane**.) is the diffusion gradient created from the combined effects of both of the above
 
 
 ### Active Transport
 - Endergonic process by which a transport protein pumps a molecule across a membrane against its concentration gradient.
-- These mantain concentration gradeints across membranes
+- These maintain concentration gradients across membranes
 - Use ATP as energy source.
 - Ex. Sodium-Potassium Pump
 
@@ -166,7 +159,7 @@ We know what Osmosis is :)
 - Smaller ones will cross faster
 
 ### Polar Molecules
-- Small, unchraged molecules can slip through
+- Small, uncharged molecules can slip through
 - Larger, uncharged will not get through easily (Ex, Glucose)
 - All ions have trouble getting through hydrophobic layer
 
@@ -177,7 +170,7 @@ We know what Osmosis is :)
 - Voltage across membranes happens when anions/cations are unequally distributed across cell membranes 
 - Potential ranges from $-50 \rightarrow -200$ mv
 - Negative sign indicates the inside of the cell is charged
-- Affects traffic of charged substances across membrane, favours diffusion of anions out, cations in.
+- Affects traffic of charged substances across membrane, favors diffusion of anions out, cations in.
 
 ### Factors contributing to Membrane Potential
 
