@@ -148,9 +148,9 @@ $(1,2)(3,4),(1,4)(2,3),(1,3)(2,4)$
 Let $S$ be a set. Let $\sigma=(a_{1},a_{2},\dots,a_{m})$ and $\tau=(b_{1},b_{2},\dots,b_{n})$ be disjoint cycle in $Perm(S)$. Then, we will prove that
 $ord(\sigma \tau)=lcm(m,n)$
 
-**Proof:**
-Let $A=\{ a_{1},a_{2},\dots,a_{m} \}$, $B=\{ b_{1},b_{2},\dots,b_{n} \}$ and $C=S/(A \cup B)$. So, $S$ is the disjoint union of $A,B,C$ or $S= A \sqcup B \sqcup C$.
-Let $r$ be an integer. Then, $(\sigma \tau)^{r}=id \Leftrightarrow (\sigma \tau)^{r}(x)=x$ for all $x \in S$.
-
+Example:
+$n=10$
+$\sigma= (1,4,7,2,9,3)(5,8,6,10)$
+Then $ord(\sigma)=lcm(6,4)=12$
 
 
