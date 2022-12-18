@@ -25,37 +25,31 @@ Additional **Globular Proteins** are also embedded into the lipid bilayer
 - Among the first organic molecules that formed from chemical reactions on early Earth
 - These lipids could spontaneously self-assemble into simple membranes.
 	  We can demonstrate this by shaking phospholipids and water. The lipids will form a bilayer surrounding around water-filled bubbles
-	  
-![[Pasted image 20221216182320.png]]
-- The Phospholipids can arrange themselves laterally very easily and move faster than the proteins
+- The Phospholipids can arrange themselves laterally
+- very easily and move faster than the proteins
 
 ### Types of Phospholipids
-![[Pasted image 20221217135723.png]]
-
-
+![Types of Phospholipids](https://cdn.discordapp.com/attachments/1048276044991434913/1054045392980951090/image.png)
 
 $Q.$ *What is the basic requirement for life to form?*
-> A membrane that not only encolses a successful assembly of molecules but also regulates chemical exchanges with the environment.
+> A membrane that not only encloses a successful assembly of molecules but also regulates chemical exchanges with the environment.
 > For regulation the membrane should contain proteins embedded into it, cause only simple lipid bilayers are not sufficient
 
 -----
 ## Membrane Fluidity
 
 #### Temperature
-As Temperature decreases the phospholipids come close to each other i.e, the *distance* between them decreases, which decreases the Fluidity
+As Temperature decreases the phospholipids come close to each other i.e., the *distance* between them decreases, which decreases the Fluidity
 Similarly, Fluidity increases with increase in Temperature
 
 #### Cholesterol (buffer)
-Cholesterol inserts itself between the phospholipids through Transmembrane Proteins
-At Low Temperature, due to insertion of cholesterol the distance between the Phospholipids increases thus Fluidity increases.
+Cholesterol inserts itself between the phospholipids through the help of vesicles and transmembrane proteins.
+At low temperature, due to insertion of cholesterol the distance between the Phospholipids increases thus fluidity increases.
 At High Temperature, insertion of cholesterol brings the phospholipids close together as they were already far apart, which decreases the fluidity.
 
 #### Saturated and Unsaturated Fatty Acids
 Saturated fatty acids decreases the fluidity while
 Unsaturated fatty acids increases the fluidity.
-
-![[Drawing 2022-12-17 13.27.49.excalidraw.png]]
-
 
 ---------------------
 
@@ -81,7 +75,6 @@ Catalyzes reaction inside or outside cell. For Ex, lactase protruding from epith
 #### 5. Linker
 Anchors filaments inside and outside to the plasma membrane, providing structural stability. May also participate in movement of the cell or link two cells together.
 
-
 ### Peripheral Proteins (Extrinsic)
 - On Membrane surface and located entirely outside of the lipid bilayer
 - Either on the extracellular or cytoplasmic surface
@@ -93,8 +86,7 @@ An important class of such markers are the Major Histocompatibility Complex (MHC
 ### Transport Protein
 Integral Membrane Proteins that transport specific ions or molecules across the membrane.
 
-![[Pasted image 20221217135244.png]]
-
+![Types of Transport Proteins](https://www.sciencefacts.net/wp-content/uploads/2021/02/Transport-Proteins.jpg)
 - Composed of Lipids, Proteins and Carbohydrates
 - Lipids of cell membrane are
   - Phospholipids
@@ -104,10 +96,9 @@ Integral Membrane Proteins that transport specific ions or molecules across the 
 
 Hydrophilic Substances like ions and moderately sized polar molecules through transport proteins. They may provide a hydrophilic tunnel or may bind to, and physically carry a substance across.
 
-
 ### Functions of Membrane Proteins
 
-![[Pasted image 20221217160843.png]]
+![Functions of Membrane Proteins](https://github.com/Drosophilaa/College_Notes/blob/main/101/BIO101/data/images/Pasted%20image%2020221217160843.png?raw=true)
 
 -----
 
@@ -135,23 +126,20 @@ $Q.$ Can ions and polar molecules also diffuse across the hydrophobic interior o
 - Effect of the membrane potential of the ion
 - The ***Electrochemical Gradient*** (**a measure of the free energy available to carry out the useful work of transporting the molecule across the membrane**.) is the diffusion gradient created from the combined effects of both of the above
 
-
 ### Active Transport
 - Endergonic process by which a transport protein pumps a molecule across a membrane against its concentration gradient.
 - These maintain concentration gradients across membranes
 - Use ATP as energy source.
 - Ex. Sodium-Potassium Pump
 
-
-![[Pasted image 20221217162106.png]]
+![Active Transport](https://github.com/Drosophilaa/College_Notes/blob/main/101/BIO101/data/images/Pasted%20image%2020221217162106.png?raw=true)
 
 ### Two models for facilitated diffusion/transport
 
-![[Pasted image 20221217162211.png]]
+![Models for facilitated diffusion](https://github.com/Drosophilaa/College_Notes/blob/main/101/BIO101/data/images/Pasted%20image%2020221217162211.png?raw=true)
 
 
 ----
-
 ## Permeability of Lipid Bilayer
 
 ### Non-Polar Molecules
@@ -182,18 +170,17 @@ $Q.$ Can ions and polar molecules also diffuse across the hydrophobic interior o
 - The ***Sodium-Potassium pump*** ($Na^{+}/K^{+}$ ATPase) is the major one in Animals, ***Proton Pump*** is major one in Plants, bacteria, fungi (also mitochondria and chloroplasts use it to make ATP)
 
 ***Sodium-Potassium Pump (A Cotransporter)***
-![[Pasted image 20221217163705.png]]
+![Sodium Potassium Pump](https://github.com/Drosophilaa/College_Notes/blob/main/101/BIO101/data/images/Pasted%20image%2020221217163705.png?raw=true)
 
 ***Proton Pump***
-![[Pasted image 20221217163035.png]]
+![Proton Pump](https://github.com/Drosophilaa/College_Notes/blob/main/101/BIO101/data/images/Pasted%20image%2020221217163035.png?raw=true)
 
+### Co-Transport
+A process where a single ATP-powered pump actively transports (with the help of ATP) one solute, and indirectly drives the transport of other solutes against their concentration gradients.
 
-### Contransport
-A process where a single ATP-powered pump actively transports (with the hellp of ATP) one solute, and indirectly drives the transport of other solutes against their concentration gradients.
-
-Here the $H^{+}$ requires ATP (active transport) where as the Glucose doesnt (indirect/passive transport)
+Here the $H^{+}$ requires ATP (active transport) where as the Glucose doesn't (indirect/passive transport)
 Can be seen in Sodium-Potassium Pump
-![[Pasted image 20221217164308.png]]
+![Co-Transport](https://github.com/Drosophilaa/College_Notes/blob/main/101/BIO101/data/images/Pasted%20image%2020221217164308.png?raw=true)
 
 -----
 
@@ -208,24 +195,29 @@ Can be seen in Sodium-Potassium Pump
 - Importation of macromolecules into a cell by ofrming vesicles from membrane
 - Used by cells to incorporate extracellular substances
 
-***Phagocytosis:*** 
-> Cell eating solid particles involved. Cells enguls them with pseudopods. The vessicle then fuses with a food vacoule
+#### The three types of Endocytosis
 
-***Pinocytosis:***
-> Cell drinking fluid droplets involved
+```ad-note
+title: Phagocytosis
+color: 255,0,0
+Cell eating solid particles involved. Cells engulfs them with pseudopods. The vesicle then fuses with a food vacuole
+```
 
-***Receptor-Mediated Endocytosis:***
->  - Receptor proteins for specific molecules are embedded in regions of the membrane that are lined by a layer of coat proteins. The plasma membrane indents to form a coated pit, whose receptor proteins pick up particular molecules from the extracellular fluid. The coated pit pinches closed to form a vesicle, which then releases the molecules into the cytoplasm.
->  - A Layer of CLATHARIN, a fibrous protein, lines and reinforces the coated pit, probably causing it to deepen the pit to form a vessicle
->  - Example: Cholesterol and LDL's
+```ad-note
+title: Pinocytosis
+color: 0,128,255
+Cell drinking fluid droplets involved
 
-![[Pasted image 20221217174116.png]]
+```
 
-#### Three types of Endocytosis
-![[Pasted image 20221217174527.png]]
+```ad-note
+title: Receptor-Mediated Endocytosis
+color: 0,255,255
+- Receptor proteins for specific molecules are embedded in regions of the membrane that are lined by a layer of coat proteins. The plasma membrane indents to form a coated pit, whose receptor proteins pick up particular molecules from the extracellular fluid. The coated pit pinches closed to form a vesicle, which then releases the molecules into the cytoplasm.
+- A Layer of CLATHARIN, a fibrous protein, lines and reinforces the coated pit, probably causing it to deepen the pit to form a vesicle
+- Example: Cholesterol and LDL's
 
-----------
+![Receptor mediated endocytosis](https://github.com/Drosophilaa/College_Notes/blob/main/101/BIO101/data/images/Pasted%20image%2020221217174116.png?raw=true)
+```
 
-
-
-
+![The three types of endocytosis](https://raw.githubusercontent.com/Drosophilaa/College_Notes/main/101/BIO101/data/images/Pasted%20image%2020221217174527.png)
