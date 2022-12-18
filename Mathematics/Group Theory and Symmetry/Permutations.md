@@ -111,5 +111,46 @@ Recall that we have partitioned the set $\{ 1,2,3,\dots,n \}$ into $p$ *disjoint
 Then, we observe that if $\sigma_{i}=(a_{i_{1}},a_{i_{2}},\dots)$ then
 $\sigma= \sigma_{1} \circ \sigma_{2} \circ \sigma_{3}\dots \circ \sigma_{p}$. Indeed for any $x \in \{ 1,2,\dots,n \}$ there is some $i$ such that $x \in A_{i}$. Let us compute $\sigma_{1} \circ \sigma_{2}\dots \circ \sigma_{p}(x)$.
 
+Thus, $\sigma = \sigma_{1} \circ \sigma_{2} \circ \sigma_{3} \circ \dots \circ \sigma_{p}$.
+This is called cycle decomposition of $\sigma$. For example:
+$$
+\begin{align}
+n=8 &,\sigma(1)=5,\sigma(2)=4,\sigma(3)=7,\sigma(4)=6 \\
+&,\sigma(5)=3,\sigma(6)=2,\sigma(7)=1,\sigma(8)=8
+\end{align}
+$$
+Then $\sigma=(1,5,3,7)(2,4,6)(8)$
+The cycle decomposition of any permutation is unique, however a cycle can be written in many different ways. For example:
+$(a,b,c)=(b,c,a)$
+Secondly disjoint cycles commute, they can be composed in any order. $(1,3,4)(2,5)=(2,5)(1,3,4)$
 
-If $j>i$, $\sigma_{j}(x)=x$. So $\sigma_{i+1} \circ \dots \sigma$
+```ad-note
+title: Note
+color: 255,0,0
+symbol: exclamation
+Note that the cycle of length $1$ is just the identity element. So, we often choose not to write 1-cycles in a cycle decomposition.
+```
+
+### Examples
+
+**Elements of $S_{4}$:**
+1. *Identity element*: $id$
+
+2. *$2$-cycles*: $(1,2),(1,3),(1,4),(2,3),(2,4),(3,4)$
+
+3. *$3$-cycles*: 	$(1,2,3),(1,3,2),(1,2,4),(1,4,2),(1,3,4),(1,4,3),(2,3,4),(2,4,3)$
+4. *$4$-cycles*: $(1,2,3,4),(1,2,4,3),(1,3,2,4),(1,3,4,2),(1,4,2,3),(1,4,3,2)$
+
+##### Product of $2$ cycles:
+$(1,2)(3,4),(1,4)(2,3),(1,3)(2,4)$
+
+### Order of the Permutation
+Let $S$ be a set. Let $\sigma=(a_{1},a_{2},\dots,a_{m})$ and $\tau=(b_{1},b_{2},\dots,b_{n})$ be disjoint cycle in $Perm(S)$. Then, we will prove that
+$ord(\sigma \tau)=lcm(m,n)$
+
+**Proof:**
+Let $A=\{ a_{1},a_{2},\dots,a_{m} \}$, $B=\{ b_{1},b_{2},\dots,b_{n} \}$ and $C=S/(A \cup B)$. So, $S$ is the disjoint union of $A,B,C$ or $S= A \sqcup B \sqcup C$.
+Let $r$ be an integer. Then, $(\sigma \tau)^{r}=id \Leftrightarrow (\sigma \tau)^{r}(x)=x$ for all $x \in S$.
+
+
+
