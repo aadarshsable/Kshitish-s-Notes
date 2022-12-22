@@ -25,14 +25,14 @@ $$
 
 [Theorem 3.1](<3.Isomorphism#Theorem-1>)
 
-***Note:*** Isomorphism preseves identity and inverses
+***Note:*** Isomorphism preserves identity and inverses
 	If $\phi: G \rightarrow H$ be an isomorphism. Then,
 		1. $\phi(1_{G}) = 1_{H}$	
 		2. For any $x \in G$ , $\phi(x^{-1}) = \phi(x)^{-1}$
 
 
 [Theorem 3.2](<3.Isomorphism#Theorem 2>)
-***Note:*** Groups are isomorhphic to one another
+***Note:*** Groups are isomorphic to one another
 	Let $G$ and $H$ be groups. Let $\phi:G \rightarrow H$ be a group isomorphism.
 	Then, the function $\phi ^{-1}: H \rightarrow G$ is also a group isomorphism
 
