@@ -18,7 +18,7 @@ title: Addition
 color: 0,255,255
 
 $a \equiv b \text{ } mod(m)$ and
-$b \equiv c \text{ } mod(m)$
+$c \equiv d \text{ } mod(m)$
 $\implies a+c \equiv b+d \text{ } mod(m)$
 Proof:
 $m | a-b \implies a-b \equiv mx$ for some $x \in \mathbb{Z}$
