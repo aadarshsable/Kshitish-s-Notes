@@ -39,3 +39,35 @@ $U(m)$ is a group under multiplication
 	$U(10)=\{ \bar{1},\bar{3},\bar{7},\bar{9} \}$
 	$\bar{3}^{2}=\bar{9},\bar{3}^{3}=\overline{27}=\bar{7}$. So,
 	$U(10)=\{ \bar{1},\bar{3},\bar{3}^{2},\bar{3}^{3} \}$
+
+## Generators of $U(m)$
+### The order of $U(m)$
+$$
+\begin{align}
+|U(m)| &= \phi(m) \\
+&= m \prod_{p_{i}|m}(1-\frac{1}{p_{i}})
+\end{align}
+$$
+### Cyclicity of U(m)
+$U(m)$ is cyclic if $m=1,2,4,p^{k},2p^{k}$ where $p$ is a odd prime number $k$ is any integer.
+### Brute force one generator
+In order to find rest of generators we need to brute force one generator at the very least.
+Let the generator be $\langle g \rangle$
+### Find all numbers coprime to $\phi(m)$
+We find all numbers that are coprime to $\phi(m)$.
+Let the set of all numbers be $\Sigma$
+### Magic
+All generators of $U(m)$ = $\{ \langle g \rangle ^{\sigma} \text{ } | \text{ } \sigma \in \Sigma\}$
+
+### Example
+Lets check if $U(27)$ is cyclic or not and if cyclic, we find its generators.
+1. Check if $U(27)$ is cyclic.
+	It is cyclic because $27 = 3^{3}$
+2. Find $|U(27)|$
+	$\phi(27)=27\left( 1-\frac{1}{3} \right)=27 \times \frac{2}{3} =18$
+3. Try to brute force a generator
+	In this case the easiest generator comes out to be $\langle 2 \rangle$
+4. Find all numbers coprime to 18.
+	$1,5,7,11,17$
+5. Rest of generators
+	$\langle g \rangle$ raised to powers $\{ 1,5,7,11,17 \}$ and then taking $mod(27)$.

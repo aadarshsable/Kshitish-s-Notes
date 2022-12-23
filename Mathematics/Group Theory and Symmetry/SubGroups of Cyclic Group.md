@@ -151,7 +151,6 @@ $$
 ### Another interesting property of $U(m)$
 
 
-
 ### Theorem 5
 Let $m$ be a positive integer. Let $a \in \mathbb{Z}$ such that $gcd(a,m)=1$. Then, $a^{\phi(m)}\equiv1 \text{ } mod(m)$
 
